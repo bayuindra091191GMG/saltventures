@@ -6,6 +6,10 @@
     color: #fff;
 }
 
+.color-custom-dark-green{
+    color: #489e5f;
+}
+
 .bg-custom-dark{
     background-color: #666666;
 }
@@ -23,7 +27,7 @@
 }
 
 .custom-font-1{
-    font-family: 'atsackersgothicregular', sans-serif !important;
+    font-family: 'Roboto', sans-serif !important;
 }
 
 .custom-font-2{
