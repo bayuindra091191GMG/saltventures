@@ -52,6 +52,15 @@ Route::get('/paul_marc/introduction', 'Frontend\HomePaulController@introduction'
 Route::get('/paul_marc/prives', 'Frontend\HomePaulController@prives')->name('frontend.paul.prives');
 Route::get('/paul_marc/lanes', 'Frontend\HomePaulController@lanes')->name('frontend.paul.lanes');
 
+
+// FRONTEND PARTNERS
+Route::get('/partners/mainpartners', 'Frontend\HomePartnersController@mainpartners')->name('frontend.partners.mainpartners');
+Route::get('/partners/danny', 'Frontend\HomePartnersController@danny')->name('frontend.partners.danny');
+Route::get('/partners/bong', 'Frontend\HomePartnersController@bong')->name('frontend.partners.bong');
+Route::get('/partners/andika', 'Frontend\HomePartnersController@andika')->name('frontend.partners.andika');
+Route::get('/partners/vincentius', 'Frontend\HomePartnersController@vincentius')->name('frontend.partners.vincentius');
+
+
 // ADMIN ROUTE
 // ====================================================================================================================
 

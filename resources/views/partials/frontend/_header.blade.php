@@ -65,7 +65,7 @@
                 <div class="limiter-menu-desktop container">
                     <!-- Logo desktop -->
                     <div class="logo">
-                        <a href="{{ route('home') }}"><img src="{{ asset('images/marc/logo-black-without-tagline.png') }}" alt="LOGO" style="width: 350px; height: auto;"></a>
+                        <a href="{{ route('home') }}"><img src="{{ asset('images/salt/SALT-Website-36.png') }}" alt="LOGO" style="width: 100px; height: auto;"></a>
                     </div>
 
                     <!-- Menu desktop -->
@@ -75,24 +75,19 @@
                                 <a class="custom-font-1 menu-font-style" href="{{ route('home') }}">HOME</a>
                             </li>
                             <li>
-                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.about') }}">OUR WAY</a>
+                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.about') }}">OUR WAY</a><i class="fa fa-chevron-down"></i></a>
+                                <ul class="sub-menu" style="z-index:9999;">
+                                        {{-- <li><a href="{{ route('frontend.paul.introduction') }}" class="custom-font-1">PAUL MARC</a></li> --}}
+                                        {{-- <li><a href="#" class="custom-font-1 disabled-link">Our Creative Ecosystem</a></li> --}}
+                                        <li><a href="#" class="custom-font-1 disabled-link">Our Apporach</a></li>
+                                    </ul>
                             </li>
                             <li>
                                 <a class="custom-font-1 menu-font-style" href="{{ route('frontend.about') }}">ECOSYSTEM</a>
                             </li>
                             <li>
-                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.about') }}">PARTNERS</a>
+                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.partners.mainpartners') }}">PARTNERS</a>
                             </li>
-                            {{--<li>--}}
-                                {{--<a class="custom-font-1 menu-font-style" href="{{ route('frontend.district') }}">CREDENTIALS <i class="fa fa-chevron-down"></i></a>--}}
-                                {{--<ul class="sub-menu" style="z-index:9999;">--}}
-                                    {{--<li><a href="{{ route('frontend.paul.introduction') }}" class="custom-font-1">PAUL MARC</a></li>--}}
-                                    {{--<li><a href="#" class="custom-font-1 disabled-link">DEAN MARC</a></li>--}}
-                                    {{--<li><a href="#" class="custom-font-1 disabled-link">GRANT MARC</a></li>--}}
-                                    {{--<li><a href="#" class="custom-font-1 disabled-link">WILL MARC</a></li>--}}
-                                    {{--<li><a href="#" class="custom-font-1 disabled-link">OLENN MARC</a></li>--}}
-                                {{--</ul>--}}
-                            {{--</li>--}}
 
                             <li>
                                 <a class="custom-font-1 menu-font-style" href="{{ route('frontend.contact_us') }}" >CREDENTIALS</a>
@@ -109,7 +104,7 @@
         <div class="wrap-header-mobile">
             <!-- Logo moblie -->
             <div class="logo-mobile">
-                <a href="{{ route('home') }}"><img src="{{ asset('images/marc/logo-black-without-tagline.png') }}" alt="LOGO"></a>
+                <a href="{{ route('home') }}"><img src="{{ asset('images/salt/SALT-Website-36.png') }}" alt="LOGO"></a>
             </div>
 
 
@@ -128,8 +123,13 @@
                 </li>
 
                 <li>
-                    <a class="custom-font-1 text-white" href="{{ route('frontend.about') }}">OUR WAY</a>
-                </li>
+                        <a class="custom-font-1 menu-font-style" href="{{ route('frontend.about') }}">OUR WAY</a><i class="fa fa-chevron-down"></i></a>
+                        <ul class="sub-menu" style="z-index:9999;">
+                                {{-- <li><a href="{{ route('frontend.paul.introduction') }}" class="custom-font-1">PAUL MARC</a></li> --}}
+                                {{-- <li><a href="#" class="custom-font-1 disabled-link">Our Creative Ecosystem</a></li> --}}
+                                <li><a href="#" class="custom-font-1 disabled-link">Our Apporach</a></li>
+                            </ul>
+                    </li>
 
                 <li>
                     <a class="custom-font-1 text-white" href="{{ route('frontend.about') }}">ECOSYSTEM</a>

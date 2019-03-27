@@ -20,4 +20,5 @@ class HomePaulController extends Controller
     {
         return view('frontend.paul.project-lane');
     }
+    
 }
