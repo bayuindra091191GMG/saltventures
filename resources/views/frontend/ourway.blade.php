@@ -80,11 +80,11 @@
     </section>
 
     <!-- OUR INVESTMENT Section -->
-    <section class="mb-3">
+    <section class="mb-4">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-md-3 col-12 border-left-investment text-center">
-                    <div class="mx-3 mx-md-0 pt-3 border-top-investment">
+                <div class="col-md-3 col-12 text-center">
+                    <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment">
                         <p>We are dedicated to assist the growth of the
                             company by filling the skills and abilities gap
                             where the company is lacking. If required, we will
@@ -92,8 +92,8 @@
                             directly involve in the company.</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-12 border-left-investment text-center">
-                    <div class="mx-3 mx-md-0 pt-3 border-top-investment">
+                <div class="col-md-3 col-12 text-center">
+                    <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment">
                         <p>We have tremendous
                             experiences to structure
                             investment that provides
@@ -102,8 +102,8 @@
                             market investment return.</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-12 border-left-investment text-center">
-                    <div class="mx-3 mx-md-0 pt-3 border-top-investment">
+                <div class="col-md-3 col-12 text-center">
+                    <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment">
                         <p>We provide incentivise targets
                             for the founders and its core
                             management teams to
@@ -112,8 +112,8 @@
                             scale up and grow.</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-12 border-left-investment border-right-investment text-center">
-                    <div class="mx-3 mx-md-0 pt-3 border-top-investment border-bottom-investment">
+                <div class="col-md-3 col-12 text-center">
+                    <div class="mx-3 mx-md-0 pl-md-3 pr-md-3 pt-3 border-left-investment border-right-investment border-top-investment border-bottom-investment">
                         <p>If required, we will assist to
                             transform the financial,
                             accounting and
@@ -128,94 +128,251 @@
         </div>
     </section>
 
-
-
-    <section class="mb-3 py-3" style="background-color: #eceff4;">
-        <div class="container">
+    <!-- WHY INVEST BANNER Section -->
+    <section class="mb-4">
+        <div class="container-fluid">
             <!--  -->
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <span class="t1-b-1 font-weight-bold">Our Creative </span>
-                    <span class="t1-b-1 font-weight-bold color-custom-dark-green">Ecosystem</span>
-                </div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-md-4"></div>
-                <div class="col-md-4 col-12 text-center">
-                    <p>
-                        “SALT Ventures is focusing on building ecosystem in
-                        creative industry. Building a synergistic ecosystem in
-                        which, each of the companies can benefit and have
-                        leverage within this creative ecosystem.”
-                    </p>
-                </div>
-                <div class="col-md-4"></div>
-            </div>
-            <div class="row mb-3">
-                <div class="col-12 text-center">
-                    <a href="#" class="btn btn-success px-5 py-3" style="border-radius: 0;">Read More</a>
+            <div class="row">
+                <div class="col-12">
+                    <div class="w-100" style="background-image: url('{{ asset('images/salt/ourway/ourway-3.jpg') }}');
+                            background-repeat: no-repeat;
+                            background-position: center;
+                            background-size: cover;
+                            height: 300px">
+                        <div class="box h-100 d-flex justify-content-center flex-column text-center">
+                            <span class="t1-b-3 font-weight-bold text-white custom-font-1">Why Invest in</span>
+                            <div class="w-100">
+                                <span class="t1-b-3 font-weight-bold color-custom-dark-green custom-font-1">Salt </span>
+                                <span class="t1-b-3 font-weight-bold text-white custom-font-1">Ventures</span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="mb-3">
-        <div class="container">
+    <!-- WHY INVEST Section DESKTOP -->
+    <section class="mb-4 d-none d-md-block">
+        <div class="container-fluid">
             <!--  -->
-            <div class="row mb-4">
-                <div class="col-md-6 col-12">
-                    <div class="w-100 bg-approach-1-responsive" style="background-image: url('{{ asset('images/salt/home/home-3.jpg') }}');
-                            background-repeat: no-repeat;
-                            background-position: center;
-                            background-size: cover;"></div>
+            <div class="row no-gutters">
+                <div class="col-4">
+                    <div class="p-4" style="height: 350px; border-right: 1px solid black; border-top: 1px solid black; border-bottom: 1px solid black;">
+                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Greater Bargaining Power</h2>
+                        <br/>
+                        <p>
+                            Cumulative fund, high profile
+                            partners and Salt Ventures
+                            ecosystem provide greater synergy
+                            and bargaining power to the
+                            investee companies.
+                        </p>
+                        <div class="custom-absolute-why-invest">
+                            <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                            <span>Strength No. 01</span>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-md-6 col-12">
-                    <div class="row mt-4 mb-4">
-                        <div class="col-12 text-center text-md-left">
-                            <span class="t1-b-1 font-weight-bold">Our </span>
-                            <span class="t1-b-1 font-weight-bold color-custom-dark-green">Approach</span>
+                <div class="col-4">
+                    <div class="p-4" style="height: 350px; border-right: 1px solid black; border-top: 1px solid black; border-bottom: 1px solid black;">
+                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Positive Impact</h2>
+                        <br/>
+                        <p>
+                            Investing in businesses and
+                            people that positively impacting
+                            the society.
+                        </p>
+                        <div class="custom-absolute-why-invest">
+                            <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                            <span>Strength No. 02</span>
                         </div>
                     </div>
-                    <div class="row mb-4">
-                        <div class="col-12 text-center text-md-left">
-                            <p>
-                                When finding and analysing a company, first we
-                                look at the founder and its core management
-                                team. We partner with founders and management
-                                teams that have excellent synergy and teamwork
-                                over showmanship, ability to transform ideas into
-                                actions, continuous learning spirit, tremendous
-                                tenacity and winning attitude.
-                            </p>
+                </div>
+                <div class="col-4">
+                    <div class="p-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
+                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Doing it Right</h2>
+                        <br/>
+                        <p>
+                            Investments are illiquid, returns
+                            are volatile. Doing it right is key
+                            and we have experiences in doing
+                            things right.
+                        </p>
+                        <div class="custom-absolute-why-invest">
+                            <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                            <span>Strength No. 03</span>
                         </div>
                     </div>
-                    <div class="row mb-3">
-                        <div class="col-12 text-center text-md-left">
-                            <a href="#" class="btn btn-success px-5 py-3" style="border-radius: 0;">Read More</a>
+                </div>
+                <div class="col-4">
+                    <div class="p-4" style="height: 350px; border-right: 1px solid black; border-bottom: 1px solid black;">
+                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Proven Track Record</h2>
+                        <br/>
+                        <p>
+                            Strong Combination of Partners and
+                            Advisors with proven track record.
+                        </p>
+                        <div class="custom-absolute-why-invest">
+                            <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                            <span>Strength No. 04</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="p-4" style="height: 350px; border-right: 1px solid black; border-bottom: 1px solid black;">
+                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Diversified Risk</h2>
+                        <br/>
+                        <p>
+                            Diversified Risk with consistent and
+                            impressive return (perfect mix between
+                            fixed and equity investments)
+                        </p>
+                        <div class="custom-absolute-why-invest">
+                            <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                            <span>Strength No. 05</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="p-4" style="height: 350px; border-bottom: 1px solid black;">
+                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Profit Margins</h2>
+                        <br/>
+                        <p>
+                            When conducting the investment,
+                            the risk are lower as we do not
+                            solely on the cash-burning tech
+                            sector industry. Rather, we focus
+                            on companies which have strong
+                            prospect with good profit margins.
+                        </p>
+                        <div class="custom-absolute-why-invest">
+                            <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                            <span>Strength No. 06</span>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row mb-3">
-                <div class="col-md-6 col-12 mb-3 mb-md-0">
-                    <div class="w-100 bg-approach-2-responsive" style="background-image: url('{{ asset('images/salt/home/home-4.jpg') }}');
-                            background-repeat: no-repeat;
-                            background-position: center;
-                            background-size: cover;">
-                        <div class="box h-100 d-flex justify-content-center flex-column text-center">
-                            <span class="t1-b-1 text-white custom-font-1">Partners</span>
-                            <a href="#" class="btn btn-default mx-auto w-50 px-5 py-3 mt-3 text-dark font-weight-bold" style="border-radius: 0; background-color: #fff;">Read More</a>
+        </div>
+    </section>
+
+    <!-- WHY INVEST Section MOBILE -->
+    <section class="d-block d-md-none">
+        <div class="container-fluid">
+            <div class="row no-gutters">
+                <div class="col-12">
+                    <div class="slider-why-invest mx-3">
+                        <div>
+                            <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
+                                <div style="height: 250px">
+                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Greater Bargaining Power</h2>
+                                    <br/>
+                                    <p>
+                                        Cumulative fund, high profile
+                                        partners and Salt Ventures
+                                        ecosystem provide greater synergy
+                                        and bargaining power to the
+                                        investee companies.
+                                    </p>
+                                </div>
+                                <div style="height: 100px">
+                                    <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                                    <span>Strength No. 01</span>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-12">
-                    <div class="w-100 bg-approach-2-responsive" style="background-image: url('{{ asset('images/salt/home/home-5.jpg') }}');
-                            background-repeat: no-repeat;
-                            background-position: center;
-                            background-size: cover;">
-                        <div class="box h-100 d-flex justify-content-center flex-column text-center">
-                            <span class="t1-b-1 text-white custom-font-1">Credentials</span>
-                            <a href="#" class="btn btn-default mx-auto w-50 px-5 py-3 mt-3 text-dark font-weight-bold" style="border-radius: 0; background-color: #fff;">Read More</a>
+                        <div>
+                            <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
+                                <div style="height: 250px;">
+                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Positive Impact</h2>
+                                    <br/>
+                                    <p>
+                                        Investing in businesses and
+                                        people that positively impacting
+                                        the society.
+                                    </p>
+                                </div>
+
+                                <div style="height: 100px">
+                                    <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                                    <span>Strength No. 02</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
+                                <div style="height: 250px;">
+                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Doing it Right</h2>
+                                    <br/>
+                                    <p>
+                                        Investments are illiquid, returns
+                                        are volatile. Doing it right is key
+                                        and we have experiences in doing
+                                        things right.
+                                    </p>
+                                </div>
+
+                                <div style="height: 100px">
+                                    <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                                    <span>Strength No. 03</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
+                                <div style="height: 250px;">
+                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Proven Track Record</h2>
+                                    <br/>
+                                    <p>
+                                        Strong Combination of Partners and
+                                        Advisors with proven track record.
+                                    </p>
+                                </div>
+
+                                <div style="height: 100px">
+                                    <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                                    <span>Strength No. 04</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
+                                <div style="height: 250px;">
+                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Diversified Risk</h2>
+                                    <br/>
+                                    <p>
+                                        Diversified Risk with consistent and
+                                        impressive return (perfect mix between
+                                        fixed and equity investments)
+                                    </p>
+                                </div>
+
+                                <div style="height: 100px">
+                                    <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                                    <span>Strength No. 05</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
+                                <div style="height: 250px;">
+                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Profit Margins</h2>
+                                    <br/>
+                                    <p>
+                                        When conducting the investment,
+                                        the risk are lower as we do not
+                                        solely on the cash-burning tech
+                                        sector industry. Rather, we focus
+                                        on companies which have strong
+                                        prospect with good profit margins.
+                                    </p>
+                                </div>
+
+                                <div style="height: 100px">
+                                    <img src="{{ asset('images/salt/icon-salt.png') }}"  alt="salt-icon"/>
+                                    <span>Strength No. 06</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -255,6 +412,17 @@
 
         .bg-approach-2-responsive{
             height: 200px;
+        }
+
+        .custom-absolute-why-invest{
+            position: absolute;
+            bottom: 25px;
+            left: 25px;
+        }
+
+        .slick-prev:before,
+        .slick-next:before {
+            color: black;
         }
 
         @media (min-width: 576px) {
@@ -303,13 +471,12 @@
 @section('scripts')
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
     <script>
-        $('.slider-within').slick({
-            dots: false,
+        $('.slider-why-invest').slick({
+            dots: true,
             infinite: false,
-            slidesToShow: 2,
-            slidesToScroll: 2,
-            variableWidth: true,
-            arrows: true
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: true,
         });
     </script>
 @endsection
