@@ -105,15 +105,14 @@
     <section class="bg-0 flex-wr-s-st m-b-15-sr991">
             <div class="col-md-12 size-a-18 bg-img2 respon-3 header-img" style="background-image: url('{{ asset('images/salt/partners/partners-andika-header.png') }}');"></div>
         </section>
-        <section class="bg-0 p-t-30 p-b-20 d-none d-md-block">
+        <section class="bg-0 p-t-30 p-b-20">
                 <div class="container">
                     <div class="flex-col-c-c p-b-20">
                         <div class="size-a-2 bg-3"></div>
                     </div>
                 </div>
         </section>
-    
-            <section class="bg-0 p-t-40 p-b-30 d-none d-md-block">
+            {{-- <section class="bg-0 p-t-40 p-b-30 d-none d-md-block">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-sm-4 col-md-4 col-lg-4 mycontent-left">
@@ -161,28 +160,73 @@
                                             Daily, Beritasatu, and Indopos.<br/><br/>
                                             Other current executive positions :<br/>
                                             <ul>
-                                                <li>Co-founder and CEO of NuMoney
+                                                <li>• Co-founder and CEO of NuMoney
                                                     Exchange (Cryptocurrency Exchange).</li>
-                                                <li>Founder and CEO of Landx (Property
+                                                <li>• Founder and CEO of Landx (Property
                                                     Crowdfunding Platform).</li>
-                                                <li>Director of Snapinn
+                                                <li>• Director of Snapinn
                                                     (Accomodation Rent Service)</li>
-                                                <li>Director of Mentorgue (Micro-learning App).</li>
+                                                <li>• Director of Mentorgue (Micro-learning App).</li>
                                             </ul><br/><br/><br/><br/>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-            </section>
-    <section class="bg-0 p-t-30 p-b-20 d-none d-md-block">
-        <div class="container">
-            <div class="flex-col-c-c p-b-20">
-                <div class="size-a-2 bg-3"></div>
-            </div>
-        </div>    
-    </section>
-    <section>
+            </section> --}}
+            <section class="mb-3">
+                    <div class="container">
+                        <!--  -->
+                        <div class="row justify-content-center">
+                            <div class="col-md-2"></div>
+                            <div class="col-md-4 col-12 text-center text-md-left">
+                                    <p> Andika Sutoro Putra is is Partner of Salt
+                                        Ventures Indonesia.<br/><br/>
+                                        Andika also the CEO of Putra Partners Financial
+                                        Service, nine years experienced investor, and
+                                        visionary in the field of investment. From 2011 to
+                                        2017, Putra has successfully generated 1200%
+                                        fantastic return for his private investor,
+                                        compared to the IHSG performance. Putra is
+                                        also a founder of Putra Investor School. Only in
+                                        one year since its establishment, Putra Investor
+                                        School brings out more than 300 investor
+                                        alumnis. In 2018, Putra composed a best-selling
+                                        book entitled ‘Anak Muda Miliarder Saham’.<br/><br/>
+                                        Putra is one of the investors of Passpod
+                                        Company, a listed company since 2018. At the
+                                        first offering, Passpod gained oversubcription
+                                        for IDR 500 billion. In 2019, Putra became a
+                                        founder and director of Salt Ventures
+                                        Indonesia.
+                                    </p>
+                                <br/>
+                            </div>
+                            <div class="col-md-4 col-12 text-center text-md-left">
+                                    <p> Salt Ventures Indonesia is a venture capital
+                                            company focusing on investment and
+                                            development of start-up companies.
+                                            Putra has been featured in several medias,
+                                            such as CNBC, SWA Magazine, Detik, Investor
+                                            Daily, Beritasatu, and Indopos.<br/><br/>
+                                            Other current executive positions :<br/>
+                                            <ul>
+                                                <li>• Co-founder and CEO of NuMoney
+                                                    Exchange (Cryptocurrency Exchange).</li>
+                                                <li>• Founder and CEO of Landx (Property
+                                                    Crowdfunding Platform).</li>
+                                                <li>• Director of Snapinn
+                                                    (Accomodation Rent Service)</li>
+                                                <li>• Director of Mentorgue (Micro-learning App).</li>
+                                            </ul><br/>
+                                    </p>
+                            </div>
+                            <div class="col-md-2"></div>
+                        </div>
+                    </div>
+                </section>
+    
+    <section class = "d-none d-md-block">
             <div class="container">
                 <div class="row no-gutters">
                     <div class="col-lg-4 col-md-4 col-4">

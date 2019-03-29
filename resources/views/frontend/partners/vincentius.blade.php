@@ -105,15 +105,8 @@
     <section class="bg-0 flex-wr-s-st m-b-15-sr991">
             <div class="col-md-12 size-a-18 bg-img2 respon-3 header-img" style="background-image: url('{{ asset('images/salt/partners/partners-vincentius-header.png') }}');"></div>
         </section>
-        <section class="bg-0 p-t-30 p-b-20 d-none d-md-block">
-                <div class="container">
-                    <div class="flex-col-c-c p-b-20">
-                        <div class="size-a-2 bg-3"></div>
-                    </div>
-                </div>
-        </section>
     
-            <section class="bg-0 p-t-40 p-b-30 d-none d-md-block">
+            {{-- <section class="bg-0 p-t-40 p-b-30 d-none d-md-block">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-sm-4 col-md-4 col-lg-4 mycontent-left">
@@ -171,15 +164,62 @@
                             </div>
                         </div>
                     </div>
-            </section>
-    <section class="bg-0 p-t-30 p-b-20 d-none d-md-block">
+            </section> --}}
+    <section class="bg-0 p-t-30 p-b-20">
         <div class="container">
             <div class="flex-col-c-c p-b-20">
                 <div class="size-a-2 bg-3"></div>
             </div>
         </div>    
     </section>
-    <section>
+    <section class="mb-3">
+            <div class="container">
+                <!--  -->
+                <div class="row justify-content-center">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4 col-12 text-center text-md-left">
+                            <p> Vincentius is a Partner of Salt Ventures
+                                Indonesia.<br/><br/>
+                                Vincent, a certified Management Accountant
+                                and a CFA Candidate , carries around 14 years of
+                                financial and leadership experience.
+                                Throughout his career, he had been able to help
+                                to raise approx USD 60 million through Initial
+                                Public Offering in IDX for a transportation
+                                company called PT Express Transindo Utama
+                                (Express Group) with ticker “TAXI” ; and close
+                                USD 22.5 million B round financing in Canada
+                                for a telecommunication company called
+                                Zeugma Systems Inc.
+                            </p>
+                        <br/>
+                    </div>
+                    <div class="col-md-4 col-12 text-center text-md-left">
+                        <p>     In Private Equity and other leadership realms,
+                                Vincent had also been able to close a private
+                                deal; a Joint Venture for Indonesia Exclusive
+                                Bike Distributions rights in Indonesia for “Trek”
+                                and also implement various operational
+                                efficiency procedures through oil Hedging
+                                program; Working Capital Analysis; Process
+                                workflow and also good corporate
+                                Governance. Vincent earned a Business
+                                degree from Simon Fraser University, British
+                                Columbia, USA.<br/><br/>
+                                Other Current Executive Position:<br/>
+                                <ul>
+                                    <li>• General Manager in PT Prima Usaha
+                                        Nasional.</li>
+                                    <li>• sGeneral Manager in PT Oaktech
+                                        Nusantara.</li>
+                                </ul>    
+                        </p>
+                    </div>
+                    <div class="col-md-2"></div>
+                </div>
+            </div>
+        </section>
+    <section class = "d-none d-md-block">
             <div class="container">
                 <div class="row no-gutters">
                     <div class="col-lg-4 col-md-4 col-4">
