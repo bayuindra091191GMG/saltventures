@@ -40,6 +40,11 @@ class HomeController extends Controller
         return view('frontend.ecosystem');
     }
 
+    public function credentials()
+    {
+        return view('frontend.credentials');
+    }
+
     public function about()
     {
         return view('frontend.about');

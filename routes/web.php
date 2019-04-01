@@ -33,6 +33,7 @@ Route::get('/clear', function() {
 Route::get('/', 'Frontend\HomeController@index')->name('home');
 Route::get('/ourway', 'Frontend\HomeController@ourway')->name('frontend.ourway');
 Route::get('/ecosystem', 'Frontend\HomeController@ecosystem')->name('frontend.ecosystem');
+Route::get('/credentials', 'Frontend\HomeController@credentials')->name('frontend.credentials');
 Route::get('/district', 'Frontend\HomeController@district')->name('frontend.district');
 Route::get('/about', 'Frontend\HomeController@about')->name('frontend.about');
 Route::get('/masterplan', 'Frontend\HomeController@masterplan')->name('frontend.masterplan');

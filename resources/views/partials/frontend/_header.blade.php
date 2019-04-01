@@ -75,22 +75,22 @@
                                 <a class="custom-font-1 menu-font-style" href="{{ route('home') }}">HOME</a>
                             </li>
                             <li>
-                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.about') }}">OUR WAY</a><i class="fa fa-chevron-down"></i></a>
+                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.ourway') }}">OUR WAY</a><i class="fa fa-chevron-down"></i></a>
                                 <ul class="sub-menu" style="z-index:9999;">
                                         {{-- <li><a href="{{ route('frontend.paul.introduction') }}" class="custom-font-1">PAUL MARC</a></li> --}}
                                         {{-- <li><a href="#" class="custom-font-1 disabled-link">Our Creative Ecosystem</a></li> --}}
-                                        <li><a href="#" class="custom-font-1 disabled-link">Our Apporach</a></li>
+                                        <li><a href="#" class="custom-font-1 disabled-link"></a></li>
                                     </ul>
                             </li>
                             <li>
-                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.about') }}">ECOSYSTEM</a>
+                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.ecosystem') }}">ECOSYSTEM</a>
                             </li>
                             <li>
                                 <a class="custom-font-1 menu-font-style" href="{{ route('frontend.partners.mainpartners') }}">PARTNERS</a>
                             </li>
 
                             <li>
-                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.contact_us') }}" >CREDENTIALS</a>
+                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.credentials') }}" >CREDENTIALS</a>
                             </li>
                         </ul>
                     </div>
@@ -123,24 +123,24 @@
                 </li>
 
                 <li>
-                        <a class="custom-font-1 menu-font-style" href="{{ route('frontend.about') }}">OUR WAY</a><i class="fa fa-chevron-down"></i></a>
+                        <a class="custom-font-1 menu-font-style" href="{{ route('frontend.ourway') }}">OUR WAY</a><i class="fa fa-chevron-down"></i></a>
                         <ul class="sub-menu" style="z-index:9999;">
                                 {{-- <li><a href="{{ route('frontend.paul.introduction') }}" class="custom-font-1">PAUL MARC</a></li> --}}
                                 {{-- <li><a href="#" class="custom-font-1 disabled-link">Our Creative Ecosystem</a></li> --}}
-                                <li><a href="#" class="custom-font-1 disabled-link">Our Apporach</a></li>
+                                <li><a href="#" class="custom-font-1 disabled-link"></a></li>
                             </ul>
                     </li>
 
                 <li>
-                    <a class="custom-font-1 text-white" href="{{ route('frontend.about') }}">ECOSYSTEM</a>
+                    <a class="custom-font-1 text-white" href="{{ route('frontend.ecosystem') }}">ECOSYSTEM</a>
                 </li>
 
                 <li>
-                    <a class="custom-font-1 text-white" href="{{ route('frontend.about') }}">PARTNERS</a>
+                    <a class="custom-font-1 text-white" href="{{ route('frontend.partners.mainpartners') }}">PARTNERS</a>
                 </li>
 
                 <li>
-                    <a class="custom-font-1 text-white" href="{{ route('frontend.about') }}">CREDENTIALS</a>
+                    <a class="custom-font-1 text-white" href="{{ route('frontend.credentials') }}">CREDENTIALS</a>
                 </li>
 
                 {{--<li>--}}

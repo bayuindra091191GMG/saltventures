@@ -38,6 +38,7 @@
                 border-left: none;
             }
 
+
             .centered {
                 position: absolute;
                 top: 80%;
@@ -103,16 +104,24 @@
 @section('content')
     <!-- About -->
     <section class="bg-0 flex-wr-s-st m-b-15-sr991">
-            <div class="col-md-12 size-a-18 bg-img2 respon-3 header-img" style="background-image: url('{{ asset('images/salt/partners/partners-danny-header.png') }}');"></div>
+        <div class = "container">
+            <div class="row w-100">
+                <div class="col-md-12 header-img respon-3" style="background-image: url('{{ asset('images/salt/partners/partners-danny-header.png') }}');
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: contain;">
+                </div>
+            </div>
+        </div>    
     </section>
 
-        <section class="bg-0 p-t-30 p-b-20">
-                <div class="container">
-                    <div class="flex-col-c-c p-b-20">
-                        <div class="size-a-2 bg-3"></div>
-                    </div>
-                </div>
-            </section>
+    <section class="bg-0 p-t-30 p-b-20">
+        <div class="container">
+            <div class="flex-col-c-c p-b-20">
+                <div class="size-a-2 bg-3"></div>
+            </div>
+        </div>
+    </section>
 
             {{-- <section class="bg-0 p-t-40 p-b-30 d-none d-md-block">
                     <div class="container">
@@ -184,7 +193,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-2"></div>
                 <div class="col-md-4 col-12 text-center text-md-left">
-                    <p>Danny is Partner of Salt Ventures Indonesia.
+                    <p>Danny is Partner of Salt Ventures Indonesia.<br/><br/>
                         Danny carries around 10 years of financial and
                         management work experience. Throughout his
                         professional carreer, Mr Danny has been
@@ -192,7 +201,7 @@
                         actions such as, M&A, debt restructuring,
                         leverage buyout, due diligence, with Enterprise
                         Value ranging from USD 50 million – USD 900
-                        million.<br/>
+                        million.<br/><br>
                         In a start-up realm, Danny has been trusted to
                         be the financial advisor to numerous growing
                         and prominent early stage
@@ -201,26 +210,25 @@
                         Syah Establishment, Euromedica
                         Group, Sejauh Mata Memandang and many
                         more. Danny has successfully assisted them in</p>
-                    <br/>
                 </div>
                 <div class="col-md-4 col-12 text-center text-md-left">
-                    <p>the early stage financing and business strategy. 
+                    <p>the early stage financing and business strategy.
                         Mr Danny earned a degree in
                         Economics from The University of Texas at
-                        Austin, USA.
+                        Austin, USA.<br/><br/>
                         Other Current Executive Positions:
                         <ul>
                             <li>• Commissioner of PT Hanson Semesta
-                                licensed under Bappepti).</li>
+                                licensed under Bappepti).</li><br/>
                             <li>• Commissioner of PT CK Pakan Indonesia
                                 (fullfat soya producer and top 10 soybean
-                                trader in Indonesia).</li>
+                                trader in Indonesia).</li><br/>
                             <li>• Commissioner of PT CK Pakan Indonesia
                                 (fullfat soya producer and top 10 soybean
-                                trader in Indonesia).</li>
+                                trader in Indonesia).</li><br/>
                             <li>• Director of PT Bintang Putra Alexander (fast
                                 growing outsourcing company providing
-                                cleaning service staff, security and driver)</li>
+                                cleaning service staff, security and driver)</li><br/>
                             <li>• Director of PT Teknologi Bahana Mega.</li>
                         </ul>    
                     </p>
@@ -228,6 +236,13 @@
                 <div class="col-md-2"></div>
             </div>
         </div>
+    </section>
+    <section class="bg-0 p-t-20 p-b-20 d-none d-md-block">
+            <div class="container">
+                <div class="flex-col-c-c p-b-20">
+                    <div class="size-a-2 bg-3"></div>
+                </div>
+            </div>
     </section>
     <section class= "d-none d-md-block">
         <div class="container">

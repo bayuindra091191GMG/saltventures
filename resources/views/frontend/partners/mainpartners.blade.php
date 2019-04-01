@@ -170,7 +170,7 @@
                 <div class="d-block d-md-none pt-4">
                     <div class="box h-100 d-flex justify-content-center flex-column text-center">
                         <div class="w-100">
-                            <a href="#" class="btn btn-success mx-auto px-2" 
+                            <a href="{{ route('frontend.partners.danny') }}" class="btn btn-success mx-auto px-2" 
                             style="border-radius: 0; font-size: 8px;">Read More</a>
                         </div>
                     </div>
@@ -193,12 +193,12 @@
                         partners, established a Property<br/>
                         Developer Company named Trinity Land.<br/>
                     </span>
-                    <a href="{{ route('frontend.partners.danny') }}" class="btn btn-success px-md-5 py-md-3 mt-3 " style="border-radius: 0;">Read More</a>
+                    <a href="{{ route('frontend.partners.bong') }}" class="btn btn-success px-md-5 py-md-3 mt-3 " style="border-radius: 0;">Read More</a>
                 </div>
                 <div class="d-block d-md-none pt-4">
                     <div class="box h-100 d-flex justify-content-center flex-column text-center">
                         <div class="w-100">
-                            <a href="#" class="btn btn-success mx-auto px-2" 
+                            <a href="{{ route('frontend.partners.bong') }}" class="btn btn-success mx-auto px-2" 
                             style="border-radius: 0; font-size: 8px;">Read More</a>
                         </div>
                     </div>
@@ -230,12 +230,12 @@
                         years of financial and management<br/>
                         work experience.<br/>
                     </span>
-                    <a href="{{ route('frontend.partners.danny') }}" class="btn btn-success px-md-5 py-md-3 mt-3 " style="border-radius: 0;">Read More</a>
+                    <a href="{{ route('frontend.partners.andika') }}" class="btn btn-success px-md-5 py-md-3 mt-3 " style="border-radius: 0;">Read More</a>
                 </div>
                 <div class="d-block d-md-none pt-4">
                     <div class="box h-100 d-flex justify-content-center flex-column text-center">
                         <div class="w-100">
-                            <a href="#" class="btn btn-success mx-auto px-2" 
+                            <a href="{{ route('frontend.partners.andika') }}" class="btn btn-success mx-auto px-2" 
                             style="border-radius: 0; font-size: 8px;">Read More</a>
                         </div>
                     </div>
@@ -251,12 +251,12 @@
                         years of financial and management<br/>
                         work experience.<br/>
                     </span>
-                    <a href="{{ route('frontend.partners.danny') }}" class="btn btn-success px-md-5 py-md-3 mt-3 " style="border-radius: 0;">Read More</a>
+                    <a href="{{ route('frontend.partners.vincentius') }}" class="btn btn-success px-md-5 py-md-3 mt-3 " style="border-radius: 0;">Read More</a>
                 </div>
                 <div class="d-block d-md-none pt-4">
                     <div class="box h-100 d-flex justify-content-center flex-column text-center">
                         <div class="w-100">
-                            <a href="#" class="btn btn-success mx-auto px-2" 
+                            <a href="{{ route('frontend.partners.vincentius') }}" class="btn btn-success mx-auto px-2" 
                             style="border-radius: 0; font-size: 8px;">Read More</a>
                         </div>
                     </div>
