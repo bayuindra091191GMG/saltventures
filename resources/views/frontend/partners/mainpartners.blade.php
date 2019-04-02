@@ -225,10 +225,12 @@
             background-position: center;
             background-size: cover;">
                 <div class="d-none d-md-block">
-                    <span class="txt-partners-3 text-white">Danny is Partner of Salt Ventures<br/>
-                        Indonesia. Danny carries around 10<br/>
-                        years of financial and management<br/>
-                        work experience.<br/>
+                    <span class="txt-partners-3 text-white">Andika Sutoro Putra is partner of<br/>
+                        Salt Ventures Indonesia. Andika<br/>
+                        also the CEO of Putra Partners<br/>
+                        Finance Service, nine years<br/>
+                        experienced investor, and visionary<br/>
+                        in the field of investment.<br/>
                     </span>
                     <a href="{{ route('frontend.partners.andika') }}" class="btn btn-success px-md-5 py-md-3 mt-3 " style="border-radius: 0;">Read More</a>
                 </div>
@@ -246,10 +248,12 @@
             background-position: center;
             background-size: cover;">
                 <div class="d-none d-md-block">
-                    <span class="txt-partners-3 text-white">Danny is Partner of Salt Ventures<br/>
-                        Indonesia. Danny carries around 10<br/>
-                        years of financial and management<br/>
-                        work experience.<br/>
+                    <span class="txt-partners-3 text-white">Vincentius is a Partner of Salt<br/>
+                        Ventures Indonesia. Vincent, a<br/>
+                        certified Management<br/>
+                        Accountant and a CFA Candidate,<br/>
+                        carries around 14 years of financial<br/>
+                        and leadership experience.<br/>
                     </span>
                     <a href="{{ route('frontend.partners.vincentius') }}" class="btn btn-success px-md-5 py-md-3 mt-3 " style="border-radius: 0;">Read More</a>
                 </div>

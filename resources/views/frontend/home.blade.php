@@ -184,7 +184,7 @@
             </div>
             <div class="row mb-3">
                 <div class="col-12 text-center">
-                    <a href="#" class="btn btn-success px-5 py-3" style="border-radius: 0;">Read More</a>
+                    <a href="{{ route('frontend.ecosystem') }}" class="btn btn-success px-5 py-3" style="border-radius: 0;">Read More</a>
                 </div>
             </div>
         </div>
@@ -222,7 +222,7 @@
                     </div>
                     <div class="row mb-3">
                         <div class="col-12 text-center text-md-left">
-                            <a href="#" class="btn btn-success px-5 py-3" style="border-radius: 0;">Read More</a>
+                            <a href="{{ route('frontend.ourway') }}" class="btn btn-success px-5 py-3" style="border-radius: 0;">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -235,7 +235,7 @@
                             background-size: cover;">
                         <div class="box h-100 d-flex justify-content-center flex-column text-center">
                             <span class="t1-b-1 text-white custom-font-1">Partners</span>
-                            <a href="#" class="btn btn-default mx-auto w-50 px-5 py-3 mt-3 text-dark font-weight-bold" style="border-radius: 0; background-color: #fff;">Read More</a>
+                            <a href="{{ route('frontend.partners.mainpartners') }}" class="btn btn-default mx-auto w-50 px-5 py-3 mt-3 text-dark font-weight-bold" style="border-radius: 0; background-color: #fff;">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -246,7 +246,7 @@
                             background-size: cover;">
                         <div class="box h-100 d-flex justify-content-center flex-column text-center">
                             <span class="t1-b-1 text-white custom-font-1">Credentials</span>
-                            <a href="#" class="btn btn-default mx-auto w-50 px-5 py-3 mt-3 text-dark font-weight-bold" style="border-radius: 0; background-color: #fff;">Read More</a>
+                            <a href="{{ route('frontend.credentials') }}" class="btn btn-default mx-auto w-50 px-5 py-3 mt-3 text-dark font-weight-bold" style="border-radius: 0; background-color: #fff;">Read More</a>
                         </div>
                     </div>
                 </div>

@@ -153,7 +153,7 @@
         </div>
     </div>
 </section>
-<section class=mx-auto>
+<section>
     <div class="container" >
         <div class="row no-gutters">
             <div class="col-md-6" style="background-color: rgb(0,65,0) ;background-image: url('{{ asset('images/salt/credentials/credentials-1.png') }}');
