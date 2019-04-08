@@ -102,14 +102,14 @@
 
 @section('content')
     <!-- About -->
-    <section class="bg-0 flex-wr-s-st m-b-15-sr991">
+    <section class="mb-5">
         <div class="container">    
-            <div class="row w-100">
-                <div class="col-md-12 size-a-18 bg-img2 respon-3 header-img" style="background-image: url('{{ asset('images/salt/partners/partners-andika-header.png') }}');"></div>
+            <div class="row">
+                <div class="col-md-12 size-a-18 bg-img2 respon-3 header-img w-100" style="background-image: url('{{ asset('images/salt/partners/partners-andika-header.png') }}');"></div>
             </div>
         </div>
     </section>
-    <section class="bg-0 p-t-30 p-b-20">
+    <section class="mb-3">
             <div class="container">
                 <div class="flex-col-c-c p-b-20">
                     <div class="size-a-2 bg-3"></div>

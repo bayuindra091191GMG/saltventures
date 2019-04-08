@@ -103,10 +103,10 @@
 
 @section('content')
     <!-- About -->
-    <section class="bg-0 flex-wr-s-st m-b-15-sr991">
-        <div class = "container">
-            <div class="row w-100">
-                <div class="col-md-12 header-img respon-3" style="background-image: url('{{ asset('images/salt/partners/partners-danny-header.png') }}');
+    <section class="mb-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 w-100 header-img respon-3" style="background-image: url('{{ asset('images/salt/partners/partners-danny-header.png') }}');
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: contain;">
@@ -115,7 +115,7 @@
         </div>    
     </section>
 
-    <section class="bg-0 p-t-30 p-b-20">
+    <section class="bg-0 mb-3">
         <div class="container">
             <div class="flex-col-c-c p-b-20">
                 <div class="size-a-2 bg-3"></div>

@@ -75,12 +75,7 @@
                                 <a class="custom-font-1 menu-font-style" href="{{ route('home') }}">HOME</a>
                             </li>
                             <li>
-                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.ourway') }}">OUR WAY</a><i class="fa fa-chevron-down"></i></a>
-                                <ul class="sub-menu" style="z-index:9999;">
-                                        {{-- <li><a href="{{ route('frontend.paul.introduction') }}" class="custom-font-1">PAUL MARC</a></li> --}}
-                                        {{-- <li><a href="#" class="custom-font-1 disabled-link">Our Creative Ecosystem</a></li> --}}
-                                        <li><a href="#" class="custom-font-1 disabled-link"></a></li>
-                                    </ul>
+                                <a class="custom-font-1 menu-font-style" href="{{ route('frontend.ourway') }}">OUR WAY</a>
                             </li>
                             <li>
                                 <a class="custom-font-1 menu-font-style" href="{{ route('frontend.ecosystem') }}">ECOSYSTEM</a>
@@ -123,13 +118,8 @@
                 </li>
 
                 <li>
-                        <a class="custom-font-1 menu-font-style" href="{{ route('frontend.ourway') }}">OUR WAY</a><i class="fa fa-chevron-down"></i></a>
-                        <ul class="sub-menu" style="z-index:9999;">
-                                {{-- <li><a href="{{ route('frontend.paul.introduction') }}" class="custom-font-1">PAUL MARC</a></li> --}}
-                                {{-- <li><a href="#" class="custom-font-1 disabled-link">Our Creative Ecosystem</a></li> --}}
-                                <li><a href="#" class="custom-font-1 disabled-link"></a></li>
-                            </ul>
-                    </li>
+                    <a class="custom-font-1 text-white" href="{{ route('frontend.ourway') }}">OUR WAY</a>
+                </li>
 
                 <li>
                     <a class="custom-font-1 text-white" href="{{ route('frontend.ecosystem') }}">ECOSYSTEM</a>

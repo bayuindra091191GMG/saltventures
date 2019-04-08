@@ -146,8 +146,8 @@
 <section class="bg-0 p-t-40 p-b-10">
     <div class="container">
             <!-- Title section -->
-        <div class="flex-col-c-c p-b-5">
-            <h3 class="t1-b-1 cl-3 txt-center m-b-11 custom-font-2">
+        <div class="flex-col-c-c p-b-5 text-center">
+            <h3 class="t1-b-1 custom-font-1 font-weight-bold">
                 Credentials
             </h3>
         </div>

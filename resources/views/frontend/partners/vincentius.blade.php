@@ -102,80 +102,22 @@
 
 @section('content')
     <!-- About -->
-    <section class="bg-0 flex-wr-s-st m-b-15-sr991">
-            <div class="container">
-                <div class="row w-100">
-                    <div class="col-md-12 size-a-18 bg-img2 respon-3 header-img" style="background-image: url('{{ asset('images/salt/partners/partners-vincentius-header.png') }}');"></div>
-                </div>
+    <section class="mb-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 size-a-18 bg-img2 respon-3 header-img w-100" style="background-image: url('{{ asset('images/salt/partners/partners-vincentius-header.png') }}');"></div>
             </div>
-        </section>
-    
-            {{-- <section class="bg-0 p-t-40 p-b-30 d-none d-md-block">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-sm-4 col-md-4 col-lg-4 mycontent-left">
-                                <div class="flex-col-c-c pos-relative">
-                                    <div class="p-rl-5 borad-5 t1-s-4 cl-1 m-l-10 custom-font-2" style="font-weight: 600;">
-                                        
-                                    </div>
-            
-                                    <div class="p-rl-5 t1-s-2 cl-1 m-l-10 p-t-20">
-                                            Vincentius is a Partner of Salt Ventures
-                                            Indonesia.<br/><br/>
-                                            Vincent, a certified Management Accountant
-                                            and a CFA Candidate , carries around 14 years of
-                                            financial and leadership experience.
-                                            Throughout his career, he had been able to help
-                                            to raise approx USD 60 million through Initial
-                                            Public Offering in IDX for a transportation
-                                            company called PT Express Transindo Utama
-                                            (Express Group) with ticker “TAXI” ; and close
-                                            USD 22.5 million B round financing in Canada
-                                            for a telecommunication company called
-                                            Zeugma Systems Inc.
+        </div>
+    </section>
 
-                                    </div>
-                                </div>
-                            </div>
-            
-                            <div class="col-sm-4 col-md-4 col-lg-4">
-                                <div class="flex-col-c-c pos-relative">
-                                    <div class="p-rl-5 borad-5 t1-s-4 cl-1 m-l-10 custom-font-2" style="font-weight: 600;">
-                                        
-                                    </div>
-            
-                                    <div class="p-rl-5 t1-s-2 cl-1 m-l-10 p-t-20">
-                                            In Private Equity and other leadership realms,
-                                            Vincent had also been able to close a private
-                                            deal; a Joint Venture for Indonesia Exclusive
-                                            Bike Distributions rights in Indonesia for “Trek”
-                                            and also implement various operational
-                                            efficiency procedures through oil Hedging
-                                            program; Working Capital Analysis; Process
-                                            workflow and also good corporate
-                                            Governance. Vincent earned a Business
-                                            degree from Simon Fraser University, British
-                                            Columbia, USA.<br/><br/>
-                                            Other Current Executive Position:<br/>
-                                            <ul>
-                                                <li>General Manager in PT Prima Usaha
-                                                    Nasional.</li>
-                                                <li>General Manager in PT Oaktech
-                                                    Nusantara.</li>
-                                            </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-            </section> --}}
-    <section class="bg-0 p-t-30 p-b-20">
+    <section class="mb-3">
         <div class="container">
             <div class="flex-col-c-c p-b-20">
                 <div class="size-a-2 bg-3"></div>
             </div>
         </div>    
     </section>
+
     <section class="mb-3">
             <div class="container">
                 <!--  -->
