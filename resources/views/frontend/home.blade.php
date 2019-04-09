@@ -73,9 +73,9 @@
                         data-basealign="slide" 
                         data-responsive_offset="off"
                         >
-                            <span class="t1-b-1 font-weight-bold">"We are</span><br/>
-                            <span class="t1-b-1 font-weight-bold">partners of</span><br/>
-                            <span class="t1-b-1 font-weight-bold color-custom-dark-green">extra mile walkers."</span>
+                            <span class="t1-b-1 custom-font-monserrat-bold">"We are</span><br/>
+                            <span class="t1-b-1 custom-font-monserrat-bold">partners of</span><br/>
+                            <span class="t1-b-1 custom-font-monserrat-bold color-custom-dark-green">extra mile walkers."</span>
                         </p>
                     </li>
                 </ul>				
@@ -111,7 +111,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-2"></div>
                 <div class="col-md-4 col-12 text-center text-md-left">
-                    <p>Salt Ventures is an Indonesian based venture
+                    <p style="line-height: 1.8;">Salt Ventures is an Indonesian based venture
                         capital firm established with a focus to invest in
                         and help to cultivate the impactful early to
                         growth stage companies in Indonesia’s growing
@@ -120,7 +120,7 @@
                     <br/>
                 </div>
                 <div class="col-md-4 col-12 text-center text-md-left">
-                    <p>either technology driven and/or efficiently run
+                    <p style="line-height: 1.8;">either technology driven and/or efficiently run
                         operated by a value-driven and highly
                         motivated management team. When we
                         invest, our frame of mind is not as an investor.
@@ -161,16 +161,16 @@
         </div>
     </section>
 
-    <section class="mb-3 py-3" style="background-color: #eceff4;">
+    <section class="mb-3 py-4" style="background-color: #eceff4;">
         <div class="container">
             <!--  -->
-            <div class="row mb-3">
+            <div class="row mb-4 mt-4">
                 <div class="col-12 text-center">
-                    <span class="t1-b-1 font-weight-bold">Our Creative </span>
-                    <span class="t1-b-1 font-weight-bold color-custom-dark-green">Ecosystem</span>
+                    <span class="t1-b-1 custom-font-monserrat-bold text-black">Our Creative </span>
+                    <span class="t1-b-1 custom-font-monserrat-bold color-custom-dark-green">Ecosystem</span>
                 </div>
             </div>
-            <div class="row mb-3">
+            <div class="row mb-4">
                 <div class="col-md-4"></div>
                 <div class="col-md-4 col-12 text-center">
                     <p>
@@ -203,13 +203,13 @@
                 <div class="col-md-6 col-12">
                     <div class="row mt-4 mb-4">
                         <div class="col-12 text-center text-md-left">
-                            <span class="t1-b-1 font-weight-bold">Our </span>
-                            <span class="t1-b-1 font-weight-bold color-custom-dark-green">Approach</span>
+                            <span class="t1-b-1 custom-font-monserrat-bold text-black">Our </span>
+                            <span class="t1-b-1 custom-font-monserrat-bold color-custom-dark-green">Approach</span>
                         </div>
                     </div>
                     <div class="row mb-4">
                         <div class="col-12 text-center text-md-left">
-                            <p>
+                            <p style="line-height: 1.8;">
                                 When finding and analysing a company, first we
                                 look at the founder and its core management
                                 team. We partner with founders and management
@@ -222,7 +222,7 @@
                     </div>
                     <div class="row mb-3">
                         <div class="col-12 text-center text-md-left">
-                            <a href="{{ route('frontend.ourway') }}" class="btn btn-success px-5 py-3" style="border-radius: 0;">Read More</a>
+                            <a href="{{ route('frontend.ourway') }}" class="btn btn-success px-5 py-3 custom-font-monserrat-semibold" style="border-radius: 0;">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -234,8 +234,8 @@
                             background-position: center;
                             background-size: cover;">
                         <div class="box h-100 d-flex justify-content-center flex-column text-center">
-                            <span class="t1-b-1 text-white custom-font-1">Partners</span>
-                            <a href="{{ route('frontend.partners.mainpartners') }}" class="btn btn-default mx-auto w-50 px-5 py-3 mt-3 text-dark font-weight-bold" style="border-radius: 0; background-color: #fff;">Read More</a>
+                            <span class="t1-b-1 text-white custom-font-monserrat-bold">Partners</span>
+                            <a href="{{ route('frontend.partners.mainpartners') }}" class="btn btn-default mx-auto w-50 px-5 py-3 mt-3 text-dark custom-font-monserrat-semibold" style="border-radius: 0; background-color: #fff;">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -245,8 +245,8 @@
                             background-position: center;
                             background-size: cover;">
                         <div class="box h-100 d-flex justify-content-center flex-column text-center">
-                            <span class="t1-b-1 text-white custom-font-1">Credentials</span>
-                            <a href="{{ route('frontend.credentials') }}" class="btn btn-default mx-auto w-50 px-5 py-3 mt-3 text-dark font-weight-bold" style="border-radius: 0; background-color: #fff;">Read More</a>
+                            <span class="t1-b-1 text-white custom-font-monserrat-bold">Credentials</span>
+                            <a href="{{ route('frontend.credentials') }}" class="btn btn-default mx-auto w-50 px-5 py-3 mt-3 text-dark custom-font-monserrat-semibold" style="border-radius: 0; background-color: #fff;">Read More</a>
                         </div>
                     </div>
                 </div>

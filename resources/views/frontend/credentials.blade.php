@@ -143,11 +143,11 @@
 @endsection
 
 @section('content')
-<section class="bg-0 p-t-40 p-b-10">
+<section class="mb-4 mt-4">
     <div class="container">
             <!-- Title section -->
         <div class="flex-col-c-c p-b-5 text-center">
-            <h3 class="t1-b-1 custom-font-1 font-weight-bold">
+            <h3 class="t1-b-1 custom-font-monserrat-bold text-black">
                 Credentials
             </h3>
         </div>

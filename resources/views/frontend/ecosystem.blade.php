@@ -11,13 +11,13 @@
 @section('content')
 
     <!-- OUR CREATIVE ECOSYSTEM Section -->
-    <section class="mb-5">
+    <section class="mb-5 mt-4">
         <div class="container">
             <!--  -->
             <div class="row mb-3">
                 <div class="col-12 text-center">
-                    <span class="t1-b-1 custom-font-1 font-weight-bold">Our Creative </span>
-                    <span class="t1-b-1 custom-font-1 font-weight-bold color-custom-dark-green">Ecosystem</span>
+                    <span class="t1-b-1 custom-font-monserrat-bold text-black">Our Creative </span>
+                    <span class="t1-b-1 custom-font-monserrat-bold color-custom-dark-green">Ecosystem</span>
                 </div>
             </div>
             <div class="row mb-5">
@@ -57,7 +57,7 @@
             </div>
             <div class="row">
                 <div class="col-12 text-center retailer-description">
-                    <span class="t1-m-1 custom-font-1 font-weight-bold">To Leverange, To Synergize, To Grow, To Survive</span>
+                    <span class="t1-m-1 custom-font-monserrat-bold text-black">To Leverange, To Synergize, To Grow, To Survive</span>
                 </div>
             </div>
         </div>

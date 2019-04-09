@@ -13,9 +13,9 @@
                 <div class="col-md-8 col-12">
                     <div class="row">
                         <div class="col-md-4 col-12 text-center text-md-left">
-                            <span class="t1-m-1 text-dark">Salt Ventures Headquarters</span>
+                            <span class="t1-s-2 custom-font-monserrat-regular text-black">Salt Ventures Headquarters</span>
                             <br/>
-                            <span class="t1-m-1 text-dark">
+                            <span class="t1-s-2 custom-font-monserrat-regular text-black">
                                 Brooklyn Premium<br/>
                                 Office<br/>
                                 Jalan Sutera Boulevard<br/>
@@ -25,7 +25,7 @@
                         <div class="col-md-4 col-12 text-center text-md-left">
                             <br/>
                             <br/>
-                            <span class="t1-m-1 text-dark">
+                            <span class="t1-s-2 custom-font-monserrat-regular text-black">
                                 (+62) 000 000 00<br/>
                                 info@saltventures.com<br/>
                                 www.saltventures.com

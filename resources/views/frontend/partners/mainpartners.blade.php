@@ -16,63 +16,33 @@
             width: 20%;
         }
 
+        .txt-partners-1{
+            font-size: 10px;
+        }
+
+        .txt-partners-2{
+            font-size: 10px;
+        }
+
         @media (max-width: 576px) {
-            .mycontent-left {
-                border-right: none;
-            }
-            .mycontent-right {
-                border-left: none;
-            }
-            .centered {
-                position: absolute;
-                top: 80%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-                min-width: 300px;
-            }
-            .header-img{
-                min-height: 150px;
-            }
+
         }
 
         @media (min-width: 768px) {
-            .mycontent-left {
-                border-right: none;
-            }
-            .mycontent-right {
-                border-left: none;
-            }
-            .btn-readmore-responsive {
 
-            }
-
-            .centered {
-                position: absolute;
-                top: 80%;
-                left: 70%;
-                transform: translate(-50%, -50%);
-                min-width: 300px;
-            }
         }
 
-        @media (max-width: 992px) {
-
-            .partners-content{
-                padding-bottom: 20%;
-                overflow: hidden;
-                width: 20%;
-                
-            }
-
+        @media (min-width: 992px) {
             .txt-partners-1{
-                font-size: 14px !important;
+                font-size: 14px;
             }
+
             .txt-partners-2{
-                font-size: 16px !important;
-                font-weight: bold;
+                font-size: 16px;
             }
+
             .txt-partners-3{
-                font-size: 10px !important;
+                font-size: 10px;
             }
 
         }
@@ -101,14 +71,15 @@
             }
 
             .txt-partners-1{
-                font-size: 20px !important;
+                font-size: 20px;
             }
+
             .txt-partners-2{
-                font-size: 24px !important;
-                font-weight: bold;
+                font-size: 24px;
             }
+
             .txt-partners-3{
-                font-size: 18px !important;
+                font-size: 18px;
             }
         }
 
@@ -152,7 +123,7 @@
             <div class="col-4 partners-content text-white " style="background-color: green">
                 <div class="pl-2 pl-md-5 pt-2 pt-md-5">
                     <span class="txt-partners-1">The Partners</span><br/>
-                    <span class="txt-partners-2">Danny Sutradewa</span>
+                    <span class="txt-partners-2 custom-font-monserrat-bold">Danny Sutradewa</span>
                 </div>    
             </div>
             <div class="col-4 partners-content p-4" style="background-image: url('{{ asset('images/salt/partners/SALT-Website-22.jpg') }}');
@@ -160,7 +131,7 @@
             background-position: center;
             background-size: cover;">
                 <div class="d-none d-md-block">
-                    <span class="txt-partners-3 text-white">Danny is Partner of Salt Ventures<br/>
+                    <span class="txt-partners-3 custom-font-monserrat-light text-white">Danny is Partner of Salt Ventures<br/>
                         Indonesia. Danny carries around 10<br/>
                         years of financial and management<br/>
                         work experience.<br/>
@@ -179,7 +150,7 @@
             <div class="col-4 partners-content text-white" style="background-color: green">
                 <div class="pl-2 pl-md-5 pt-2 pt-md-5">
                     <span class="txt-partners-1">The Partners</span><br/>
-                    <span class="txt-partners-2">Bong Chandra</span>
+                    <span class="txt-partners-2 custom-font-monserrat-bold">Bong Chandra</span>
                 </div>    
             </div>    
             <div class="col-4 partners-content p-4" style="background-image: url('{{ asset('images/salt/partners/SALT-Website-22.jpg') }}');
@@ -187,7 +158,7 @@
             background-position: center;
             background-size: cover;">
                 <div class="d-none d-md-block">
-                    <span class="txt-partners-3 text-white">Bong Chandra is Partner of Salt<br/>
+                    <span class="txt-partners-3 custom-font-monserrat-light text-white">Bong Chandra is Partner of Salt<br/>
                         Ventures Indonesia. In 2009, Bong<br/>
                         Chandra accompanied with his three<br/>
                         partners, established a Property<br/>
@@ -217,7 +188,7 @@
             <div class="col-4 partners-content text-white " style="background-color: green">
                 <div class="pl-2 pl-md-5 pt-2 pt-md-5">
                     <span class="txt-partners-1">The Partners</span><br/>
-                    <span class="txt-partners-2">Andika Sutoro Putra</span>
+                    <span class="txt-partners-2 custom-font-monserrat-bold">Andika Sutoro Putra</span>
                 </div>    
             </div>
             <div class="col-4 partners-content p-4" style="background-image: url('{{ asset('images/salt/partners/SALT-Website-22.jpg') }}');
@@ -225,7 +196,7 @@
             background-position: center;
             background-size: cover;">
                 <div class="d-none d-md-block">
-                    <span class="txt-partners-3 text-white">Andika Sutoro Putra is partner of<br/>
+                    <span class="txt-partners-3 custom-font-monserrat-light text-white">Andika Sutoro Putra is partner of<br/>
                         Salt Ventures Indonesia. Andika<br/>
                         also the CEO of Putra Partners<br/>
                         Finance Service, nine years<br/>
@@ -248,7 +219,7 @@
             background-position: center;
             background-size: cover;">
                 <div class="d-none d-md-block">
-                    <span class="txt-partners-3 text-white">Vincentius is a Partner of Salt<br/>
+                    <span class="txt-partners-3 custom-font-monserrat-light text-white">Vincentius is a Partner of Salt<br/>
                         Ventures Indonesia. Vincent, a<br/>
                         certified Management<br/>
                         Accountant and a CFA Candidate,<br/>
@@ -274,7 +245,7 @@
             <div class="col-4 partners-content text-white " style="background-color: green">
                 <div class="pl-2 pl-md-5 pt-2 pt-md-5">
                     <span class="txt-partners-1">The Partners</span><br/>
-                    <span class="txt-partners-2">Vincentius Prasetio</span>
+                    <span class="txt-partners-2 custom-font-monserrat-bold">Vincentius Prasetio</span>
                 </div>    
             </div>
         </div>

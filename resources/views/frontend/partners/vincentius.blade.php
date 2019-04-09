@@ -124,7 +124,7 @@
                 <div class="row justify-content-center">
                     <div class="col-md-2"></div>
                     <div class="col-md-4 col-12 text-center text-md-left">
-                            <p> Vincentius is a Partner of Salt Ventures
+                            <p class="custom-font-monserrat-regular text-black"> Vincentius is a Partner of Salt Ventures
                                 Indonesia.<br/><br/>
                                 Vincent, a certified Management Accountant
                                 and a CFA Candidate , carries around 14 years of
@@ -141,7 +141,7 @@
                         <br/>
                     </div>
                     <div class="col-md-4 col-12 text-center text-md-left">
-                        <p>     In Private Equity and other leadership realms,
+                        <p class="custom-font-monserrat-regular text-black">     In Private Equity and other leadership realms,
                                 Vincent had also been able to close a private
                                 deal; a Joint Venture for Indonesia Exclusive
                                 Bike Distributions rights in Indonesia for “Trek”

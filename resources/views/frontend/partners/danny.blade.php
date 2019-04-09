@@ -123,77 +123,13 @@
         </div>
     </section>
 
-            {{-- <section class="bg-0 p-t-40 p-b-30 d-none d-md-block">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-sm-4 col-md-4 col-lg-4 mycontent-left">
-                                <div class="flex-col-c-c pos-relative">
-                                    <div class="p-rl-5 borad-5 t1-s-4 cl-1 m-l-10 custom-font-2" style="font-weight: 600;">
-                                        
-                                    </div>
-            
-                                    <div class="p-rl-5 t1-s-2 cl-1 m-l-10 p-t-20">
-                                            Danny is Partner of Salt Ventures Indonesia.<br/><br/>
-                                            Danny carries around 10 years of financial and
-                                            management work experience. Throughout his
-                                            professional carreer, Mr Danny has been
-                                            assigned as a project leader in many corporate
-                                            actions such as, M&A, debt restructuring,
-                                            leverage buyout, due diligence, with Enterprise
-                                            Value ranging from USD 50 million – USD 900
-                                            million.
-                                            In a start-up realm, Danny has been trusted to
-                                            be the financial advisor to numerous growing
-                                            and prominent early stage
-                                            companies in the fashion retail, F&B and
-                                            healthcare industry namely, The Goods Dept,
-                                            Syah Establishment, Euromedica
-                                            Group, Sejauh Mata Memandang and many
-                                            more. Danny has successfully assisted them in the 
-                                            early stage financing and business strategy. 
-                                            Mr Danny earned a degree in
-                                            Economics from The University of Texas at
-                                            Austin, USA.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-sm-4 col-md-4 col-lg-4">
-                                <div class="flex-col-c-c pos-relative">
-                                    <div class="p-rl-5 borad-5 t1-s-4 cl-1 m-l-10 custom-font-2" style="font-weight: 600;">
-
-                                    </div>
-
-                                    <div class="p-rl-5 t1-s-2 cl-1 m-l-10 p-t-20">
-                                            Other Current Executive Positions:<br/>
-                                            <ul>
-                                                <li>Commissioner of PT Hanson Semesta
-                                                    licensed under Bappepti).</li><br/>
-                                                <li>Commissioner of PT CK Pakan Indonesia
-                                                    (fullfat soya producer and top 10 soybean
-                                                    trader in Indonesia).</li><br/>
-                                                <li>Commissioner of PT CK Pakan Indonesia
-                                                    (fullfat soya producer and top 10 soybean
-                                                    trader in Indonesia).</li><br/>
-                                                <li>Director of PT Bintang Putra Alexander (fast
-                                                    growing outsourcing company providing
-                                                    cleaning service staff, security and driver)</li><br/>
-                                                <li>Director of PT Teknologi Bahana Mega.</li><br/>
-                                            </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-            </section> --}}
-    
     <section class="mb-3">
         <div class="container">
             <!--  -->
             <div class="row justify-content-center">
                 <div class="col-md-2"></div>
                 <div class="col-md-4 col-12 text-center text-md-left">
-                    <p>Danny is Partner of Salt Ventures Indonesia.<br/><br/>
+                    <p class="custom-font-monserrat-regular text-black">Danny is Partner of Salt Ventures Indonesia.<br/><br/>
                         Danny carries around 10 years of financial and
                         management work experience. Throughout his
                         professional carreer, Mr Danny has been
@@ -212,24 +148,24 @@
                         more. Danny has successfully assisted them in</p>
                 </div>
                 <div class="col-md-4 col-12 text-center text-md-left">
-                    <p>the early stage financing and business strategy.
+                    <p class="custom-font-monserrat-regular text-black">the early stage financing and business strategy.
                         Mr Danny earned a degree in
                         Economics from The University of Texas at
                         Austin, USA.<br/><br/>
                         Other Current Executive Positions:
                         <ul>
-                            <li>• Commissioner of PT Hanson Semesta
+                            <li class="custom-font-monserrat-regular text-black">• Commissioner of PT Hanson Semesta
                                 licensed under Bappepti).</li><br/>
-                            <li>• Commissioner of PT CK Pakan Indonesia
+                            <li class="custom-font-monserrat-regular text-black">• Commissioner of PT CK Pakan Indonesia
                                 (fullfat soya producer and top 10 soybean
                                 trader in Indonesia).</li><br/>
-                            <li>• Commissioner of PT CK Pakan Indonesia
+                            <li class="custom-font-monserrat-regular text-black">• Commissioner of PT CK Pakan Indonesia
                                 (fullfat soya producer and top 10 soybean
                                 trader in Indonesia).</li><br/>
-                            <li>• Director of PT Bintang Putra Alexander (fast
+                            <li class="custom-font-monserrat-regular text-black">• Director of PT Bintang Putra Alexander (fast
                                 growing outsourcing company providing
                                 cleaning service staff, security and driver)</li><br/>
-                            <li>• Director of PT Teknologi Bahana Mega.</li>
+                            <li class="custom-font-monserrat-regular text-black">• Director of PT Teknologi Bahana Mega.</li>
                         </ul>    
                     </p>
                 </div>

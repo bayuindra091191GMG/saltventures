@@ -118,61 +118,14 @@
             </div>
         </div>
     </section>
-    
-            {{-- <section class="bg-0 p-t-40 p-b-30 d-none d-md-block">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-sm-4 col-md-4 col-lg-4 mycontent-left">
-                                <div class="flex-col-c-c pos-relative">
-                                    <div class="p-rl-5 borad-5 t1-s-4 cl-1 m-l-10 custom-font-2" style="font-weight: 600;">
-                                        
-                                    </div>
-            
-                                    <div class="p-rl-5 t1-s-2 cl-1 m-l-10 p-t-20">
-                                            Bong Chandra is Partner of Salt Ventures
-                                            Indonesia.<br/><br/>
-                                            In 2009, Bong Chandra—accompanied with his
-                                            three partners, Matius Jusuf, Septian Starlin and
-                                            Johannes L.A., established a Property Developer
-                                            Company named Triniti Land. In the last 10
-                                            years, Triniti Land has successfully developed
-                                            iconic property projects, such as Brooklyn
-                                            Apartment, Springwood Residence, Yukata
-                                            Suites, The Smith, Collins Boulevard, and Marcs
-                                            Boulevard which are worth more than IDR 15
-                                            trillion. Triniti Land plans to perform Initial
-                                            Public Offering (IPO) on July 2019.
-                                    </div>
-                                </div>
-                            </div>
-            
-                            <div class="col-sm-4 col-md-4 col-lg-4">
-                                <div class="flex-col-c-c pos-relative">
-                                    <div class="p-rl-5 borad-5 t1-s-4 cl-1 m-l-10 custom-font-2" style="font-weight: 600;">
-                                        
-                                    </div>
-            
-                                    <div class="p-rl-5 t1-s-2 cl-1 m-l-10 p-t-20">
-                                            Bong Chandra is also one of the founders of
-                                            Snapinn. Snapinn is a marketplace which
-                                            provide accomodations from Private
-                                            Residences and Apartments, to Villas. Snapinn
-                                            has advance feature, such as Snaptrip, 
-                                            so everyone can be a host to provide local trips
-                                            and experiences based on their own expertises.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-            </section> --}}
+
     <section class="mb-3">
             <div class="container">
                 <!--  -->
                 <div class="row justify-content-center">
                     <div class="col-md-2"></div>
                     <div class="col-md-4 col-12 text-center text-md-left">
-                            <p> Bong Chandra is Partner of Salt Ventures
+                            <p class="custom-font-monserrat-regular text-black"> Bong Chandra is Partner of Salt Ventures
                                 Indonesia.<br/><br/>
                                 In 2009, Bong Chandra—accompanied with his
                                 three partners, Matius Jusuf, Septian Starlin and
@@ -189,7 +142,7 @@
                         <br/>
                     </div>
                     <div class="col-md-4 col-12 text-center text-md-left">
-                            <p> Bong Chandra is also one of the founders of
+                            <p class="custom-font-monserrat-regular text-black"> Bong Chandra is also one of the founders of
                                 Snapinn. Snapinn is a marketplace which
                                 provide accomodations from Private
                                 Residences and Apartments, to Villas. Snapinn

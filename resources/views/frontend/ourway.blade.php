@@ -21,10 +21,21 @@
                             background-position: center;
                             background-size: cover;
                             height: 300px">
-                        <div class="box h-100 d-flex justify-content-center flex-column text-center">
-                            <span class="t1-b-3 font-weight-bold text-white custom-font-1">Our</span>
-                            <span class="t1-b-3 font-weight-bold color-custom-dark-green custom-font-1">Approach</span>
-                            <span class="t1-m-1 text-white"><em>“Core Management, Technology Driven, Cost Efficient”</em></span>
+                        <div class="d-none d-md-block h-100">
+                            <div class="box h-100 d-flex justify-content-center flex-column text-center">
+                                <span class="t1-b-3 font-weight-bold custom-font-monserrat-bold text-white">Our</span>
+                                <span class="t1-b-3 font-weight-bold custom-font-monserrat-bold color-custom-dark-green">Approach</span>
+                                <span class="t1-m-1 custom-font-bambostd text-white">“Core Management, Technology Driven, Cost Efficient”</span>
+                            </div>
+                        </div>
+                        <div class="d-block d-md-none h-100">
+                            <div class="box h-100 px-3 d-flex justify-content-center flex-column text-center">
+                                <div class="mb-3">
+                                    <span class="t1-b-3 font-weight-bold custom-font-monserrat-bold text-white">Our</span>
+                                    <span class="t1-b-3 font-weight-bold custom-font-monserrat-bold color-custom-dark-green">Approach</span>
+                                </div>
+                                <span class="t1-m-1 custom-font-bambostd text-white">“Core Management, Technology Driven, Cost Efficient”</span>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -70,8 +81,8 @@
                             background-size: cover;
                             height: 300px">
                         <div class="box h-100 d-flex justify-content-center flex-column text-center">
-                            <span class="t1-b-3 font-weight-bold text-white custom-font-1">Our Investment</span>
-                            <span class="t1-b-3 font-weight-bold color-custom-dark-green custom-font-1">Approach</span>
+                            <span class="t1-b-3 custom-font-monserrat-bold text-white ">Our Investment</span>
+                            <span class="t1-b-3 custom-font-monserrat-bold color-custom-dark-green">Strategy</span>
                         </div>
                     </div>
                 </div>
@@ -84,7 +95,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-3 col-12 text-center">
-                    <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment">
+                    <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment" style="height: 200px;">
                         <p>We are dedicated to assist the growth of the
                             company by filling the skills and abilities gap
                             where the company is lacking. If required, we will
@@ -93,7 +104,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-12 text-center">
-                    <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment">
+                    <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment" style="height: 200px;">
                         <p>We have tremendous
                             experiences to structure
                             investment that provides
@@ -103,7 +114,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-12 text-center">
-                    <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment">
+                    <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment" style="height: 200px;">
                         <p>We provide incentivise targets
                             for the founders and its core
                             management teams to
@@ -113,7 +124,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-12 text-center">
-                    <div class="mx-3 mx-md-0 pl-md-3 pr-md-3 pt-3 border-left-investment border-right-investment border-top-investment border-bottom-investment">
+                    <div class="mx-3 mx-md-0 pl-md-3 pr-md-3 pt-3 border-left-investment border-right-investment border-top-investment border-bottom-investment" style="height: 200px;">
                         <p>If required, we will assist to
                             transform the financial,
                             accounting and
@@ -140,10 +151,10 @@
                             background-size: cover;
                             height: 300px">
                         <div class="box h-100 d-flex justify-content-center flex-column text-center">
-                            <span class="t1-b-3 font-weight-bold text-white custom-font-1">Why Invest in</span>
+                            <span class="t1-b-3 custom-font-monserrat-bold text-white">Why Invest in</span>
                             <div class="w-100">
-                                <span class="t1-b-3 font-weight-bold color-custom-dark-green custom-font-1">Salt </span>
-                                <span class="t1-b-3 font-weight-bold text-white custom-font-1">Ventures</span>
+                                <span class="t1-b-3 custom-font-monserrat-bold color-custom-dark-green">Salt </span>
+                                <span class="t1-b-3 custom-font-monserrat-bold text-white">Ventures</span>
                             </div>
                         </div>
                     </div>
@@ -159,9 +170,9 @@
             <div class="row no-gutters">
                 <div class="col-4">
                     <div class="p-4" style="height: 350px; border-right: 1px solid black; border-top: 1px solid black; border-bottom: 1px solid black;">
-                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Greater Bargaining Power</h2>
+                        <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Greater Bargaining Power</h2>
                         <br/>
-                        <p>
+                        <p class="custom-font-monserrat-regular text-black">
                             Cumulative fund, high profile
                             partners and Salt Ventures
                             ecosystem provide greater synergy
@@ -176,9 +187,9 @@
                 </div>
                 <div class="col-4">
                     <div class="p-4" style="height: 350px; border-right: 1px solid black; border-top: 1px solid black; border-bottom: 1px solid black;">
-                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Positive Impact</h2>
+                        <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Positive Impact</h2>
                         <br/>
-                        <p>
+                        <p class="custom-font-monserrat-regular text-black">
                             Investing in businesses and
                             people that positively impacting
                             the society.
@@ -191,9 +202,9 @@
                 </div>
                 <div class="col-4">
                     <div class="p-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
-                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Doing it Right</h2>
+                        <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Doing it Right</h2>
                         <br/>
-                        <p>
+                        <p class="custom-font-monserrat-regular text-black">
                             Investments are illiquid, returns
                             are volatile. Doing it right is key
                             and we have experiences in doing
@@ -207,9 +218,9 @@
                 </div>
                 <div class="col-4">
                     <div class="p-4" style="height: 350px; border-right: 1px solid black; border-bottom: 1px solid black;">
-                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Proven Track Record</h2>
+                        <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Proven Track Record</h2>
                         <br/>
-                        <p>
+                        <p class="custom-font-monserrat-regular text-black">
                             Strong Combination of Partners and
                             Advisors with proven track record.
                         </p>
@@ -221,9 +232,9 @@
                 </div>
                 <div class="col-4">
                     <div class="p-4" style="height: 350px; border-right: 1px solid black; border-bottom: 1px solid black;">
-                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Diversified Risk</h2>
+                        <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Diversified Risk</h2>
                         <br/>
-                        <p>
+                        <p class="custom-font-monserrat-regular text-black">
                             Diversified Risk with consistent and
                             impressive return (perfect mix between
                             fixed and equity investments)
@@ -236,9 +247,9 @@
                 </div>
                 <div class="col-4">
                     <div class="p-4" style="height: 350px; border-bottom: 1px solid black;">
-                        <h2 class="t1-m-1 custom-font-1 font-weight-bold">Profit Margins</h2>
+                        <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Profit Margins</h2>
                         <br/>
-                        <p>
+                        <p class="custom-font-monserrat-regular text-black">
                             When conducting the investment,
                             the risk are lower as we do not
                             solely on the cash-burning tech
@@ -265,9 +276,9 @@
                         <div>
                             <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
                                 <div style="height: 250px">
-                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Greater Bargaining Power</h2>
+                                    <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Greater Bargaining Power</h2>
                                     <br/>
-                                    <p>
+                                    <p class="custom-font-monserrat-regular text-black">
                                         Cumulative fund, high profile
                                         partners and Salt Ventures
                                         ecosystem provide greater synergy
@@ -284,9 +295,9 @@
                         <div>
                             <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
                                 <div style="height: 250px;">
-                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Positive Impact</h2>
+                                    <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Positive Impact</h2>
                                     <br/>
-                                    <p>
+                                    <p class="custom-font-monserrat-regular text-black">
                                         Investing in businesses and
                                         people that positively impacting
                                         the society.
@@ -302,9 +313,9 @@
                         <div>
                             <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
                                 <div style="height: 250px;">
-                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Doing it Right</h2>
+                                    <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Doing it Right</h2>
                                     <br/>
-                                    <p>
+                                    <p class="custom-font-monserrat-regular text-black">
                                         Investments are illiquid, returns
                                         are volatile. Doing it right is key
                                         and we have experiences in doing
@@ -321,9 +332,9 @@
                         <div>
                             <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
                                 <div style="height: 250px;">
-                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Proven Track Record</h2>
+                                    <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Proven Track Record</h2>
                                     <br/>
-                                    <p>
+                                    <p class="custom-font-monserrat-regular text-black">
                                         Strong Combination of Partners and
                                         Advisors with proven track record.
                                     </p>
@@ -338,9 +349,9 @@
                         <div>
                             <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
                                 <div style="height: 250px;">
-                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Diversified Risk</h2>
+                                    <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Diversified Risk</h2>
                                     <br/>
-                                    <p>
+                                    <p class="custom-font-monserrat-regular text-black">
                                         Diversified Risk with consistent and
                                         impressive return (perfect mix between
                                         fixed and equity investments)
@@ -356,9 +367,9 @@
                         <div>
                             <div class="px-2 pt-4" style="height: 350px; border-top: 1px solid black; border-bottom: 1px solid black;">
                                 <div style="height: 250px;">
-                                    <h2 class="t1-m-1 custom-font-1 font-weight-bold">Profit Margins</h2>
+                                    <h2 class="t1-m-1 custom-font-monserrat-bold text-black">Profit Margins</h2>
                                     <br/>
-                                    <p>
+                                    <p class="custom-font-monserrat-regular text-black">
                                         When conducting the investment,
                                         the risk are lower as we do not
                                         solely on the cash-burning tech

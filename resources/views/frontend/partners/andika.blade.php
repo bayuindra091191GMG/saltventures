@@ -184,7 +184,7 @@
                         <div class="row justify-content-center">
                             <div class="col-md-2"></div>
                             <div class="col-md-4 col-12 text-center text-md-left">
-                                    <p> Andika Sutoro Putra is is Partner of Salt
+                                    <p class="custom-font-monserrat-regular text-black"> Andika Sutoro Putra is is Partner of Salt
                                         Ventures Indonesia.<br/><br/>
                                         Andika also the CEO of Putra Partners Financial
                                         Service, nine years experienced investor, and
@@ -207,7 +207,7 @@
                                 <br/>
                             </div>
                             <div class="col-md-4 col-12 text-center text-md-left">
-                                    <p> Salt Ventures Indonesia is a venture capital
+                                    <p class="custom-font-monserrat-regular text-black"> Salt Ventures Indonesia is a venture capital
                                             company focusing on investment and
                                             development of start-up companies.
                                             Putra has been featured in several medias,
@@ -215,13 +215,13 @@
                                             Daily, Beritasatu, and Indopos.<br/><br/>
                                             Other current executive positions :<br/>
                                             <ul>
-                                                <li>• Co-founder and CEO of NuMoney
+                                                <li class="custom-font-monserrat-regular text-black">• Co-founder and CEO of NuMoney
                                                     Exchange (Cryptocurrency Exchange).</li>
-                                                <li>• Founder and CEO of Landx (Property
+                                                <li class="custom-font-monserrat-regular text-black">• Founder and CEO of Landx (Property
                                                     Crowdfunding Platform).</li>
-                                                <li>• Director of Snapinn
+                                                <li class="custom-font-monserrat-regular text-black">• Director of Snapinn
                                                     (Accomodation Rent Service)</li>
-                                                <li>• Director of Mentorgue (Micro-learning App).</li>
+                                                <li class="custom-font-monserrat-regular text-black">• Director of Mentorgue (Micro-learning App).</li>
                                             </ul><br/>
                                     </p>
                             </div>

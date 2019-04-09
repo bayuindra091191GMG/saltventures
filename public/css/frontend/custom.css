@@ -1,9 +1,17 @@
+p{
+    line-height: 1.8 !important;
+}
+
 .gold{
     color: #d1ac60 !important;
 }
 
 .white{
     color: #fff;
+}
+
+.text-black{
+    color: #000;
 }
 
 .color-custom-dark-green{
@@ -74,6 +82,10 @@
     background-color: #000;
 }
 
+.hamburger-inner:before, .hamburger-inner, .hamburger-inner:after{
+    background-color: #489e5f !important;
+}
+
 #back-navigation{
     width: 175px;
 }
@@ -120,23 +132,78 @@
 @media (min-width: 1200px) {
 }
 
-@font-face {
-    font-family: 'atsackersgothicregular';
-    src: url('../../fonts/at_sackers_gothic_medium-webfont.woff2') format('woff2'),
-    url('../../fonts/at_sackers_gothic_medium-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+.custom-font-monserrat-light{
+    font-family: 'montserratlight', sans-serif !important;
+}
 
+.custom-font-monserrat-regular{
+    font-family: 'montserratregular', sans-serif !important;
+}
+
+.custom-font-monserrat-medium{
+    font-family: 'montserratmedium', sans-serif !important;
+}
+
+.custom-font-monserrat-semibold{
+    font-family: 'montserratsemibold', sans-serif !important;
+}
+
+.custom-font-monserrat-bold{
+    font-family: 'montserratbold', sans-serif !important;
+}
+
+.custom-font-bambostd{
+    font-family: 'BemboStd-SemiboldItalic', sans-serif !important;
 }
 
 @font-face {
-    font-family: 'chapazaregular';
-    src: url('../../fonts/chapaza-webfont.woff2') format('woff2'),
-    url('../../fonts/chapaza-webfont.woff') format('woff');
+    font-family: 'montserratlight';
+    src: url('../../fonts/montserrat-light-webfont.woff2') format('woff2'),
+    url('../../fonts/montserrat-light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
+
+@font-face {
+    font-family: 'montserratregular';
+    src: url('../../fonts/montserrat-regular-webfont.woff2') format('woff2'),
+    url('../../fonts/montserrat-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'montserratmedium';
+    src: url('../../fonts/montserrat-medium-webfont.woff2') format('woff2'),
+    url('../../fonts/montserrat-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'montserratsemibold';
+    src: url('../../fonts/montserrat-semibold-webfont.woff2') format('woff2'),
+    url('../../fonts/montserrat-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'montserratbold';
+    src: url('../../fonts/montserrat-bold-webfont.woff2') format('woff2'),
+    url('../../fonts/montserrat-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BemboStd-SemiboldItalic';
+    src: url('../../fonts/BemboStd-SemiboldItalic.eot?#iefix') format('embedded-opentype'),  url('../../fonts/BemboStd-SemiboldItalic.otf')  format('opentype'),
+    url('../../fonts/BemboStd-SemiboldItalic.woff') format('woff'), url('../../fonts/BemboStd-SemiboldItalic.ttf')  format('truetype'), url('../../fonts/BemboStd-SemiboldItalic.svg#BemboStd-SemiboldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 .pbox {
     height: 150px;
