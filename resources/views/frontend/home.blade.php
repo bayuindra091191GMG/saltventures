@@ -104,8 +104,8 @@
             <!--  -->
             <div class="row mb-5 mb-md-4">
                 <div class="col-12 text-center">
-                    <h2 class="t1-b-1 text-dark"><em>Dear Founders,</em></h2>
-                    <h2 class="t1-b-1 text-dark"><em>Big Dreamers & Extra Mile Walkers,</em></h2>
+                    <h2 class="t1-b-1 custom-font-bambostd text-dark"><em>Dear Founders,</em></h2>
+                    <h2 class="t1-b-1 custom-font-bambostd text-dark"><em>Big Dreamers & Extra Mile Walkers,</em></h2>
                 </div>
             </div>
             <div class="row justify-content-center">
