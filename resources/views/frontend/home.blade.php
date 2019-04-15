@@ -110,7 +110,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-md-2"></div>
-                <div class="col-md-4 col-12 text-center text-md-left">
+                <div class="col-md-4 col-12 text-center text-md-left d-block d-md-none">
                     <p style="line-height: 1.8;">Salt Ventures is an Indonesian based venture
                         capital firm established with a focus to invest in
                         and help to cultivate the impactful early to
@@ -119,7 +119,7 @@
                         win in this competitive market, it needs to be</p>
                     <br/>
                 </div>
-                <div class="col-md-4 col-12 text-center text-md-left">
+                <div class="col-md-4 col-12 text-center text-md-left d-block d-md-none">
                     <p style="line-height: 1.8;">either technology driven and/or efficiently run
                         operated by a value-driven and highly
                         motivated management team. When we
@@ -127,6 +127,24 @@
                         We consider ourselves partners of the
                         founders, big dreamer, extra mile walker.</p>
                 </div>
+                <div class="col-md-4 col-12 text-center text-md-left d-none d-md-block">
+                    <p style="line-height: 1.8;">Salt Ventures is an Indonesian based venture<br/>
+                        capital firm established with a focus to invest in<br/>
+                        and help to cultivate the impactful early to<br/>
+                        growth stage companies in Indonesia’s growing<br/>
+                        market. We believe for a company to thrive and<br/>
+                        win in this competitive market, it needs to be<br/></p>
+                    <br/>
+                </div>
+                <div class="col-md-4 col-12 text-center text-md-left d-none d-md-block">
+                    <p style="line-height: 1.8;">either technology driven and/or efficiently run<br/>
+                        operated by a value-driven and highly<br/>
+                        motivated management team. When we<br/>
+                        invest, our frame of mind is not as an investor.<br/>
+                        We consider ourselves partners of the<br/>
+                        founders, big dreamer, extra mile walker.<br/></p>
+                </div>
+
                 <div class="col-md-2"></div>
             </div>
         </div>
