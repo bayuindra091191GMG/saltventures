@@ -200,7 +200,7 @@
                             background-position: center;
                             background-size: cover;"></div>
                 </div>
-                <div class="col-md-6 col-12">
+                <div class="col-md-6 col-12 pt-5">
                     <div class="row mt-4 mb-4">
                         <div class="col-12 text-center text-md-left">
                             <span class="t1-b-1 custom-font-monserrat-bold text-black">Our </span>

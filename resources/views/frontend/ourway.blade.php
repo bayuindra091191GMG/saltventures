@@ -54,13 +54,13 @@
                         showmanship, ability to transform ideas into actions, continuous learning spirit, tremendous tenacity
                         and winning attitude.</p>
                     <br/>
-                    <p class="color-custom-dark-green">
+                    <p class="color-custom-dark-green font-italic">
                         In a company that we invest, we seek for one or both of these characteristics:<br/>
-                        * Technology Driven<br/>
-                        * Cost Efficient
+                        •&ensp;&nbsp;Technology Driven&ensp;&nbsp;•<br/>
+                        •&ensp;&nbsp;Cost Efficient&ensp;&nbsp;•
                     </p>
                     <br/>
-                    <p>It has been proven overtime, that companies with either technology driven and/or efficiently run, are
+                    <p class="font-italic">It has been proven overtime, that companies with either technology driven and/or efficiently run, are
                         companies that can thrive and win in the short and long run. Thus, when we analyse a company, we
                         intensely focus on its ability to scale and generate profit.</p>
                 </div>
