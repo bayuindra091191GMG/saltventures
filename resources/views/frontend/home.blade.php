@@ -73,9 +73,9 @@
                         data-basealign="slide" 
                         data-responsive_offset="off"
                         >
-                            <span class="t1-b-1 custom-font-monserrat-bold">"We are</span><br/>
-                            <span class="t1-b-1 custom-font-monserrat-bold">partners of</span><br/>
-                            <span class="t1-b-1 custom-font-monserrat-bold color-custom-dark-green">extra mile walkers."</span>
+                            <span class="t1-b-2 custom-font-monserrat-bold">"We are</span><br/>
+                            <span class="t1-b-2 custom-font-monserrat-bold">partners of</span><br/>
+                            <span class="t1-b-2 custom-font-monserrat-bold color-custom-dark-green">extra mile walkers."</span>
                         </p>
                     </li>
                 </ul>				

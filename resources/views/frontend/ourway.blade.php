@@ -44,7 +44,7 @@
     </section>
 
     <!-- OUR APPROACH Section -->
-    <section class="mb-3">
+    <section class="mb-5">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-2"></div>
@@ -70,7 +70,7 @@
     </section>
 
     <!-- OUR INVESTMENT BANNER Section -->
-    <section class="mb-4">
+    <section class="mb-5">
         <div class="container-fluid">
             <!--  -->
             <div class="row">
@@ -91,29 +91,29 @@
     </section>
 
     <!-- OUR INVESTMENT Section -->
-    <section class="mb-4">
+    <section class="mb-5">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-md-3 col-12 text-center">
+                <div class="col-md-3 col-12">
                     <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment" style="height: 200px;">
                         <p>We are dedicated to assist the growth of the
-                            company by filling the skills and abilities gap
+                            company by filling the <b>skills and abilities</b> gap
                             where the company is lacking. If required, we will
                             take roles as a director and/or commissioner to
                             directly involve in the company.</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-12 text-center">
+                <div class="col-md-3 col-12">
                     <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment" style="height: 200px;">
                         <p>We have tremendous
                             experiences to structure
-                            investment that provides
+                            investment that <b>provides
                             lower risk with greater
-                            return than the average
+                            return</b> than the average
                             market investment return.</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-12 text-center">
+                <div class="col-md-3 col-12">
                     <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment" style="height: 200px;">
                         <p>We provide incentivise targets
                             for the founders and its core
@@ -123,7 +123,7 @@
                             scale up and grow.</p>
                     </div>
                 </div>
-                <div class="col-md-3 col-12 text-center">
+                <div class="col-md-3 col-12">
                     <div class="mx-3 mx-md-0 pl-md-3 pr-md-3 pt-3 border-left-investment border-right-investment border-top-investment border-bottom-investment" style="height: 200px;">
                         <p>If required, we will assist to
                             transform the financial,
@@ -140,7 +140,7 @@
     </section>
 
     <!-- WHY INVEST BANNER Section -->
-    <section class="mb-4">
+    <section class="mb-5">
         <div class="container-fluid">
             <!--  -->
             <div class="row">
