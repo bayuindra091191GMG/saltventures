@@ -23,9 +23,9 @@
                             height: 300px">
                         <div class="d-none d-md-block h-100">
                             <div class="box h-100 d-flex justify-content-center flex-column text-center">
-                                <span class="t1-b-3 font-weight-bold custom-font-monserrat-bold text-white">Our</span>
-                                <span class="t1-b-3 font-weight-bold custom-font-monserrat-bold color-custom-dark-green">Approach</span>
-                                <span class="t1-m-1 custom-font-bambostd text-white">“Core Management, Technology Driven, Cost Efficient”</span>
+                                <span class="font-custom-size-1 font-weight-bold custom-font-monserrat-bold text-white">Our</span>
+                                <span class="font-custom-size-1 font-weight-bold custom-font-monserrat-bold color-custom-dark-green">Approach</span>
+                                <span class="font-custom-size-2 custom-font-bambostd text-white">“Core Management, Technology Driven, Cost Efficient”</span>
                             </div>
                         </div>
                         <div class="d-block d-md-none h-100">
@@ -81,8 +81,8 @@
                             background-size: cover;
                             height: 300px">
                         <div class="box h-100 d-flex justify-content-center flex-column text-center">
-                            <span class="t1-b-3 custom-font-monserrat-bold text-white ">Our Investment</span>
-                            <span class="t1-b-3 custom-font-monserrat-bold color-custom-dark-green">Strategy</span>
+                            <span class="font-custom-size-1 custom-font-monserrat-bold text-white ">Our Investment</span>
+                            <span class="font-custom-size-1 custom-font-monserrat-bold color-custom-dark-green">Strategy</span>
                         </div>
                     </div>
                 </div>
@@ -151,10 +151,10 @@
                             background-size: cover;
                             height: 300px">
                         <div class="box h-100 d-flex justify-content-center flex-column text-center">
-                            <span class="t1-b-3 custom-font-monserrat-bold text-white">Why Invest in</span>
+                            <span class="font-custom-size-1 custom-font-monserrat-bold text-white">Why Invest in</span>
                             <div class="w-100">
-                                <span class="t1-b-3 custom-font-monserrat-bold color-custom-dark-green">Salt </span>
-                                <span class="t1-b-3 custom-font-monserrat-bold text-white">Ventures</span>
+                                <span class="font-custom-size-1 custom-font-monserrat-bold color-custom-dark-green">Salt </span>
+                                <span class="font-custom-size-1 custom-font-monserrat-bold text-white">Ventures</span>
                             </div>
                         </div>
                     </div>
@@ -397,6 +397,16 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"/>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"/>
     <style>
+        .font-custom-size-1{
+            font-size: 50px;
+            line-height: 1.2;
+        }
+
+        .font-custom-size-2{
+            font-size: 25px;
+            line-height: 1.2;
+        }
+
         .border-left-investment{
             border-left: 0;
         }

@@ -14,7 +14,7 @@
     <section class="mb-5 mt-4">
         <div class="container">
             <!--  -->
-            <div class="row mb-3">
+            <div class="row mb-4">
                 <div class="col-12 text-center">
                     <span class="t1-b-1 custom-font-monserrat-bold text-black">Our Creative </span>
                     <span class="t1-b-1 custom-font-monserrat-bold color-custom-dark-green">Ecosystem</span>
@@ -94,7 +94,7 @@
 
         @media (min-width: 992px) {
             .img-ecosystem-banner-responsive{
-                height: 400px;
+                height: 600px;
                 color: black;
             }
         }
