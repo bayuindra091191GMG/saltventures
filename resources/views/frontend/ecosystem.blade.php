@@ -94,7 +94,7 @@
 
         @media (min-width: 992px) {
             .img-ecosystem-banner-responsive{
-                height: 600px;
+                height: 550px;
                 color: black;
             }
         }
