@@ -51,50 +51,20 @@
         }
 
         @media (min-width: 1024px) {
-            .mycontent-left {
-                border-right: 1px solid #333;
-                height: 345px;
-            }
-
-            .mycontent-right {
-                border-left: 1px solid #333;
-                height: 100%;
-            }
-
-            .centered {
-                position: absolute;
-                top: 80%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-                min-width: 300px;
-            }
-
             .header-img{
                 min-height: 300px;
             }
         }
 
         @media (min-width: 1200px) {
-            .centered {
-                position: absolute;
-                top: 80%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-                min-width: 300px;
-            }
-
-            .mycontent-left {
-                border-right: 1px solid #333;
-                height: 297px;
-            }
-
-            .mycontent-right {
-                border-left: 1px solid #333;
-                height: 100%;
-            }
-
             .header-img{
                 min-height: 530px;
+            }
+        }
+
+        @media (min-width: 1600px) {
+            .header-img{
+                min-height: 750px;
             }
         }
     </style>
@@ -103,7 +73,7 @@
 @section('content')
     <!-- About -->
     <section class="mb-5">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12 size-a-18 bg-img2 respon-3 header-img w-100" style="background-image: url('{{ asset('images/salt/partners/partners-bong-header.png') }}');
                         background-repeat: no-repeat;
