@@ -94,7 +94,7 @@
             }
 
             .header-img{
-                min-height: 400px;
+                min-height: 530px;
             }
         }
     </style>
@@ -103,9 +103,12 @@
 @section('content')
     <!-- About -->
     <section class="mb-5">
-        <div class="container">    
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-md-12 size-a-18 bg-img2 respon-3 header-img w-100" style="background-image: url('{{ asset('images/salt/partners/partners-andika-header.png') }}');"></div>
+                <div class="col-md-12 size-a-18 bg-img2 respon-3 header-img w-100" style="background-image: url('{{ asset('images/salt/partners/partners-andika-header.png') }}');
+                        background-repeat: no-repeat;
+                        background-position: center;
+                        background-size: cover;"></div>
             </div>
         </div>
     </section>

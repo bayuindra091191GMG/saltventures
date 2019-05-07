@@ -25,7 +25,7 @@
                             <div class="box h-100 d-flex justify-content-center flex-column text-center">
                                 <span class="font-custom-size-1 font-weight-bold custom-font-monserrat-bold text-white">Our</span>
                                 <span class="font-custom-size-1 font-weight-bold custom-font-monserrat-bold color-custom-dark-green">Approach</span>
-                                <span class="font-custom-size-2 custom-font-bambostd text-white">“Core Management, Technology Driven, Cost Efficient”</span>
+                                <span class="font-custom-size-2 custom-font-bambostd text-white" style="line-height: 1.9;">“Core Management, Technology Driven, Cost Efficient”</span>
                             </div>
                         </div>
                         <div class="d-block d-md-none h-100">
@@ -96,7 +96,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-3 col-12">
                     <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment" style="height: 200px;">
-                        <p>We are dedicated to assist the growth of the
+                        <p class="text-black">We are dedicated to assist the growth of the
                             company by filling the <b>skills and abilities</b> gap
                             where the company is lacking. If required, we will
                             take roles as a director and/or commissioner to
@@ -105,7 +105,7 @@
                 </div>
                 <div class="col-md-3 col-12">
                     <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment" style="height: 200px;">
-                        <p>We have tremendous
+                        <p class="text-black">We have tremendous
                             experiences to structure
                             investment that <b>provides
                             lower risk with greater
@@ -115,7 +115,7 @@
                 </div>
                 <div class="col-md-3 col-12">
                     <div class="mx-3 mx-md-0 pl-md-3 pt-3 border-left-investment border-top-investment" style="height: 200px;">
-                        <p>We provide incentivise targets
+                        <p class="text-black">We provide incentivise targets
                             for the founders and its core
                             management teams to
                             achieve in order to maximize
@@ -125,7 +125,7 @@
                 </div>
                 <div class="col-md-3 col-12">
                     <div class="mx-3 mx-md-0 pl-md-3 pr-md-3 pt-3 border-left-investment border-right-investment border-top-investment border-bottom-investment" style="height: 200px;">
-                        <p>If required, we will assist to
+                        <p class="text-black">If required, we will assist to
                             transform the financial,
                             accounting and
                             operational aspects of the

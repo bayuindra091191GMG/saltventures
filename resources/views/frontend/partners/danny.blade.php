@@ -95,7 +95,7 @@
             }
 
             .header-img{
-                min-height: 400px;
+                min-height: 530px;
             }
         }
     </style>
@@ -104,12 +104,12 @@
 @section('content')
     <!-- About -->
     <section class="mb-4">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12 w-100 header-img respon-3" style="background-image: url('{{ asset('images/salt/partners/partners-danny-header.png') }}');
                 background-repeat: no-repeat;
                 background-position: center;
-                background-size: contain;">
+                background-size: cover;">
                 </div>
             </div>
         </div>    
@@ -185,7 +185,7 @@
             <div class="row no-gutters">
                 <div class=" col-md-4 col-4">
                     <a href="{{ route('frontend.partners.bong') }}">
-                    <div class="pbox" style="background-image: url('{{ asset('images/salt/partners/dannypartnersbong.PNG') }}');
+                    <div class="pbox" style="background-image: url('{{ asset('images/salt/partners/dannypartnersbong.png') }}');
                     background-repeat: no-repeat;
                     background-position: center;
                     background-size: cover;">
@@ -195,7 +195,7 @@
                 </div>    
                 <div class="col-md-4 col-4">
                     <a href="{{ route('frontend.partners.andika') }}">
-                    <div class="pbox" style="background-image: url('{{ asset('images/salt/partners/dannypartnersandika.PNG') }}');
+                    <div class="pbox" style="background-image: url('{{ asset('images/salt/partners/dannypartnersandika.png') }}');
                     background-repeat: no-repeat;
                     background-position: center;
                     background-size: cover;">
@@ -204,7 +204,7 @@
                 </div>    
                 <div class="col-md-4 col-4">
                     <a href="{{ route('frontend.partners.vincentius') }}">
-                    <div class="pbox" style="background-image: url('{{ asset('images/salt/partners/dannypartnersvincentius.PNG') }}');
+                    <div class="pbox" style="background-image: url('{{ asset('images/salt/partners/dannypartnersvincentius.png') }}');
                     background-repeat: no-repeat;
                     background-position: center;
                     background-size: cover;">
