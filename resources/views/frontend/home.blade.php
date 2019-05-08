@@ -18,7 +18,7 @@
                 <ul>
                     <!-- Slide 1 -->
                     <li data-transition="slidingoverlayhorizontal">
-                        <img src="{{ asset('images/salt/home/home-1.jpg') }}" alt="IMG-SLIDE" class="rev-slidebg" style="height: 500px;">
+                        <img src="{{ asset('images/salt/home/home-1.jpg') }}" alt="IMG-SLIDE" class="rev-slidebg">
 
                         {{--<h2 class="tp-caption tp-resizeme caption-1 text-uppercase" --}}
                         {{--data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"x:left;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'--}}

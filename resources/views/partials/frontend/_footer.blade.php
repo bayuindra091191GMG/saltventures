@@ -1,6 +1,6 @@
 <!-- Footer -->
-<footer>
-    <hr class="d-block d-md-none" style="border-bottom: 1px solid black;"/>
+<footer class="mt-4 " style="border-top: 1px solid black;">
+{{--    <hr class="d-block d-md-none" style="border-bottom: 1px solid black;"/>--}}
     <div class="parallax100 pt-2 pt-md-5 p-b-15 bg-1" style="background: #FFFFFF;">
         <div class="container pb-3 px-3 pt-2">
             <div class="row">

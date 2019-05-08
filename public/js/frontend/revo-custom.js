@@ -5,8 +5,11 @@
         /*==================================================================
         [ Revo1 ]*/
         var screenH1 = 0;
-        if ($(window).width() >= 768) {
+        if ($(window).width() >= 768 && $(window).width() < 1024) {
             screenH1 = 500;
+        }
+        else if ($(window).width() >= 1024) {
+            screenH1 = 800;
         }
         else {
             screenH1 = $(window).height() - 70;
