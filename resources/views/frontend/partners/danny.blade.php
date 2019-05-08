@@ -76,7 +76,7 @@
     <section class="mb-4">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-12 w-100 header-img respon-3" style="background-image: url('{{ asset('images/salt/partners/partners-danny-header.png') }}');
+                <div class="col-md-12 w-100 header-img" style="background-image: url('{{ asset('images/salt/partners/partners-danny-header.jpg') }}');
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: cover;">
@@ -150,10 +150,10 @@
                 </div>
             </div>
     </section>
-    <section class= "d-none d-md-block">
+    <section>
         <div class="container">
             <div class="row no-gutters">
-                <div class=" col-md-4 col-4">
+                <div class="col-md-4 col-12">
                     <a href="{{ route('frontend.partners.bong') }}">
                     <div class="pbox" style="background-image: url('{{ asset('images/salt/partners/dannypartnersbong.png') }}');
                     background-repeat: no-repeat;
@@ -163,7 +163,7 @@
                     </div>
                     </a>
                 </div>    
-                <div class="col-md-4 col-4">
+                <div class="col-md-4 col-12">
                     <a href="{{ route('frontend.partners.andika') }}">
                     <div class="pbox" style="background-image: url('{{ asset('images/salt/partners/dannypartnersandika.png') }}');
                     background-repeat: no-repeat;
@@ -172,7 +172,7 @@
                     </div>
                     </a>
                 </div>    
-                <div class="col-md-4 col-4">
+                <div class="col-md-4 col-12">
                     <a href="{{ route('frontend.partners.vincentius') }}">
                     <div class="pbox" style="background-image: url('{{ asset('images/salt/partners/dannypartnersvincentius.png') }}');
                     background-repeat: no-repeat;

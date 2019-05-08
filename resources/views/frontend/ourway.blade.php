@@ -398,7 +398,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"/>
     <style>
         .font-custom-size-1{
-            font-size: 50px;
+            font-size: 30px;
             line-height: 1.2;
         }
 
@@ -467,16 +467,9 @@
                 border-bottom: 0;
             }
 
-            .bg-approach-1-responsive{
-                height: 400px;
-            }
-
-            .bg-approach-2-responsive{
-                height: 400px;
-            }
-
-            .bg-dear-founder-responsive{
-                height: 480px;
+            .font-custom-size-1{
+                font-size: 50px;
+                line-height: 1.2;
             }
         }
 

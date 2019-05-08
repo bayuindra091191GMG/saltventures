@@ -115,7 +115,7 @@
 <section>
     <div class="container">
         <div class="row no-gutters">
-            <div class="col-4 partners-content" style="background-image: url('{{ asset('images/salt/partners/SALT-Website-21.jpg') }}');
+            <div class="col-4 partners-content" style="background-image: url('{{ asset('images/salt/partners/main-danny.jpg') }}');
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;">
@@ -175,12 +175,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 partners-content" style="background-image: url('{{ asset('images/salt/partners/SALT-Website-24.jpg') }}');
+            <div class="col-4 partners-content" style="background-image: url('{{ asset('images/salt/partners/main-bong.jpg') }}');
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;">
             </div>
-            <div class="col-4 partners-content" style="background-image: url('{{ asset('images/salt/partners/SALT-Website-27.jpg') }}');
+            <div class="col-4 partners-content" style="background-image: url('{{ asset('images/salt/partners/main-andika.jpg') }}');
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;">

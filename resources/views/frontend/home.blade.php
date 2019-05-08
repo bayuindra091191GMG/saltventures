@@ -213,13 +213,17 @@
             <!--  -->
             <div class="row mb-4">
                 <div class="col-md-6 col-12">
-                    <div class="w-100 bg-approach-1-responsive" style="background-image: url('{{ asset('images/salt/home/home-3.jpg') }}');
+                    <div class="w-100 bg-approach-1-responsive d-md-block d-none" style="background-image: url('{{ asset('images/salt/home/home-3.jpg') }}');
+                            background-repeat: no-repeat;
+                            background-position: center;
+                            background-size: cover;"></div>
+                    <div class="w-100 bg-approach-1-responsive d-md-none d-block" style="background-image: url('{{ asset('images/salt/home/home-3-mobile.jpg') }}');
                             background-repeat: no-repeat;
                             background-position: center;
                             background-size: cover;"></div>
                 </div>
                 <div class="col-md-6 col-12 pt-5">
-                    <div class="row mt-4 mb-4">
+                    <div class="row mt-4 mb-4 d-md-block d-none">
                         <div class="col-12 text-center text-md-left">
                             <span class="t1-b-1 custom-font-monserrat-bold text-black">Our </span>
                             <span class="t1-b-1 custom-font-monserrat-bold color-custom-dark-green">Approach</span>
