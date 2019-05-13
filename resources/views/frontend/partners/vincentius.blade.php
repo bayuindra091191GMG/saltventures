@@ -75,7 +75,7 @@
     <section class="mb-5">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-12 size-a-18 bg-img2 header-img w-100" style="background-image: url('{{ asset('images/salt/partners/partners-vincentius-header.jpg') }}');
+                <div class="col-md-12 size-a-18 bg-img2 header-img w-100" style="background-image: url('{{ asset('images/salt/partners/vincentius-prasetio-11.jpg') }}');
                         background-repeat: no-repeat;
                         background-position: center;
                         background-size: cover;"></div>

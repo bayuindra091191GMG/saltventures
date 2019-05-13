@@ -237,7 +237,7 @@
                     </div>
                 </div>
             </div>    
-            <div class="col-4 partners-content" style="background-image: url('{{ asset('images/salt/partners/SALT-Website-28.jpg') }}');
+            <div class="col-4 partners-content" style="background-image: url('{{ asset('images/salt/partners/vincentius-prasetio-10.jpg') }}');
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;">
