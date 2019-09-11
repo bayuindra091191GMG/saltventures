@@ -12,14 +12,14 @@
                 </div>
                 <div class="col-md-8 col-12">
                     <div class="row">
-                        <div class="col-md-4 col-12 text-center text-md-left">
+                        <div class="col-md-6 col-12 text-center text-md-left">
                             <span class="t1-s-2 custom-font-monserrat-regular text-black">Salt Ventures Headquarters</span>
                             <br/>
                             <span class="t1-s-2 custom-font-monserrat-regular text-black">
-                                Brooklyn Premium<br/>
-                                Office<br/>
-                                Jalan Sutera Boulevard<br/>
-                                Kavling 22-26
+                                Prosperity Tower, Unit 17F, District 8, SCBD<br/>
+                                Jl. Jenderal Sudirnam Kav 52-53<br/>
+                                Senayan, Kebayoran Baru<br/>
+                                Jakarta Selatan-12190
                             </span>
                         </div>
                         <div class="col-md-4 col-12 text-center text-md-left">
