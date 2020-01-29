@@ -80,7 +80,7 @@
                         background-position: center;
                         background-size: cover;"></div>
             </div>
-        </div>    
+        </div>
     </section>
 
 
@@ -98,30 +98,22 @@
                 <div class="row justify-content-center">
                     <div class="col-md-2"></div>
                     <div class="col-md-4 col-12 text-center text-md-left">
-                            <p class="custom-font-monserrat-regular text-black"> Bong Chandra is Partner of Salt Ventures
-                                Indonesia.<br/><br/>
-                                In 2009, Bong Chandra—accompanied with his
-                                three partners, Matius Jusuf, Septian Starlin and
-                                Johannes L.A., established a Property Developer
-                                Company named Triniti Land. In the last 10
-                                years, Triniti Land has successfully developed
-                                iconic property projects, such as Brooklyn
-                                Apartment, Springwood Residence, Yukata
-                                Suites, The Smith, Collins Boulevard, and Marcs
-                                Boulevard which are worth more than IDR 15
-                                trillion. Triniti Land plans to perform Initial
-                                Public Offering (IPO) on July 2019.
+                            <p class="custom-font-monserrat-regular text-black">
+                                Bong Chandra is Partner of Salt Ventures Indonesia. In 2009, Bong Chandra—accompanied with his three partners,
+                                Matius Jusuf, Septian Starlin and Johannes L.A.,
+                                established a Property Developer Company named Triniti Land.
+                                In the last 10 years, Triniti Land has successfully developed iconic property projects,
+                                such as Brooklyn Apartment, Springwood Residence, Yukata Suites, The Smith, Collins Boulevard,
+                                and Marcs Boulevard which are worth more than IDR 15 trillion. Triniti Land plans to perform Initial Public Offering (IPO) on January 2019.
                             </p>
                         <br/>
                     </div>
                     <div class="col-md-4 col-12 text-center text-md-left">
-                            <p class="custom-font-monserrat-regular text-black"> Bong Chandra is also one of the founders of
-                                Snapinn. Snapinn is a marketplace which
-                                provide accomodations from Private
-                                Residences and Apartments, to Villas. Snapinn
-                                has advance feature, such as Snaptrip, 
-                                so everyone can be a host to provide local trips
-                                and experiences based on their own expertises.   
+                            <p class="custom-font-monserrat-regular text-black">
+                                Bong Chandra is also one of the founders of Snapinn.
+                                Snapinn is a marketplace which provide accomodations from Private Residences and Apartments, to Villas.
+                                Snapinn has advance feature, such as Snaptrip,
+                                so everyone can be a host to provide local trips and experiences based on their own expertises.
                             </p>
                     </div>
                     <div class="col-md-2"></div>

@@ -95,9 +95,9 @@
                             <div class="col-sm-4 col-md-4 col-lg-4 mycontent-left">
                                 <div class="flex-col-c-c pos-relative">
                                     <div class="p-rl-5 borad-5 t1-s-4 cl-1 m-l-10 custom-font-2" style="font-weight: 600;">
-                                        
+
                                     </div>
-            
+
                                     <div class="p-rl-5 t1-s-2 cl-1 m-l-10 p-t-20">
                                             Andika Sutoro Putra is is Partner of Salt
                                             Ventures Indonesia.<br/><br/>
@@ -121,13 +121,13 @@
                                     </div>
                                 </div>
                             </div>
-            
+
                             <div class="col-sm-4 col-md-4 col-lg-4">
                                 <div class="flex-col-c-c pos-relative">
                                     <div class="p-rl-5 borad-5 t1-s-4 cl-1 m-l-10 custom-font-2" style="font-weight: 600;">
-                                        
+
                                     </div>
-            
+
                                     <div class="p-rl-5 t1-s-2 cl-1 m-l-10 p-t-20">
                                             Salt Ventures Indonesia is a venture capital
                                             company focusing on investment and
@@ -159,23 +159,12 @@
                             <div class="col-md-4 col-12 text-center text-md-left">
                                     <p class="custom-font-monserrat-regular text-black"> Andika Sutoro Putra is is Partner of Salt
                                         Ventures Indonesia.<br/><br/>
-                                        Andika also the CEO of Putra Partners Financial
-                                        Service, nine years experienced investor, and
-                                        visionary in the field of investment. From 2011 to
-                                        2017, Putra has successfully generated 1200%
-                                        fantastic return for his private investor,
-                                        compared to the IHSG performance. Putra is
-                                        also a founder of Putra Investor School. Only in
-                                        one year since its establishment, Putra Investor
-                                        School brings out more than 300 investor
-                                        alumnis. In 2018, Putra composed a best-selling
-                                        book entitled ‘Anak Muda Miliarder Saham’.<br/><br/>
-                                        Putra is one of the investors of Passpod
-                                        Company, a listed company since 2018. At the
-                                        first offering, Passpod gained oversubcription
-                                        for IDR 500 billion. In 2019, Putra became a
-                                        founder and director of Salt Ventures
-                                        Indonesia.
+                                        Putra carries around 10 years experience in field of investment.
+                                        Putra also the CEO of Putra Partners Financial Service,
+                                        From 2011 to 2017, Putra has successfully generated 1200% fantastic return for his private investor.
+                                        Putra is also a founder of Putra Investor School. Only in less than 2 years since its establishment,
+                                        Putra Investor School brings out more than 1000 investor alumnis. In early 2018,
+                                        Putra composed a National best-selling book entitled ‘Anak Muda Miliarder Saham’.
                                     </p>
                                 <br/>
                             </div>
@@ -186,16 +175,6 @@
                                             Putra has been featured in several medias,
                                             such as CNBC, SWA Magazine, Detik, Investor
                                             Daily, Beritasatu, and Indopos.<br/><br/>
-                                            Other current executive positions :<br/>
-                                            <ul>
-                                                <li class="custom-font-monserrat-regular text-black">• Co-founder and CEO of NuMoney
-                                                    Exchange (Cryptocurrency Exchange).</li>
-                                                <li class="custom-font-monserrat-regular text-black">• Founder and CEO of Landx (Property
-                                                    Crowdfunding Platform).</li>
-                                                <li class="custom-font-monserrat-regular text-black">• Director of Snapinn
-                                                    (Accomodation Rent Service)</li>
-                                                <li class="custom-font-monserrat-regular text-black">• Director of Mentorgue (Micro-learning App).</li>
-                                            </ul><br/>
                                     </p>
                             </div>
                             <div class="col-md-2"></div>

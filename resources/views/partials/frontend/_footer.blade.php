@@ -26,7 +26,7 @@
                             <br/>
                             <br/>
                             <span class="t1-s-2 custom-font-monserrat-regular text-black">
-                                (+62) 000 000 00<br/>
+{{--                                (+62) 000 000 00<br/>--}}
                                 info@saltventures.com<br/>
                                 www.saltventures.com
                             </span>
