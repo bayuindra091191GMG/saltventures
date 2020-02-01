@@ -63,7 +63,7 @@
                 padding-bottom: 20%;
                 overflow: hidden;
                 width: 20%;
-                
+
             }
 
             .txt-partners-1{
@@ -137,7 +137,7 @@
                 min-height: 400px;
             }
 
-            
+
         }
     </style>
 @endsection
@@ -174,23 +174,35 @@
                         background-size: 25%;
                         height: 200px;">
             </div>
-            <div class="col-md-6" style="background-color: rgb(0,65,0);background-image: url('{{ asset('images/salt/credentials/credentials-4.png') }}');
-                        background-repeat: no-repeat;
-                        background-position: center;
-                        background-size: 40%;
-                        height: 200px;">
-            </div>
             <div class="col-md-6" style="background-color: rgb(0,65,0);background-image: url('{{ asset('images/salt/credentials/credentials-5.png') }}');
                         background-repeat: no-repeat;
                         background-position: center;
                         background-size: 40%;
                         height: 200px;">
             </div>
-            <div class="col-md-6" style="background-color: rgb(0,57,0);background-image: url('{{ asset('images/salt/credentials/credentials-6.png') }}');
+            <div class="col-md-6" style="background-color: rgb(0,65,0);background-image: url('{{ asset('images/salt/credentials/credentials-6.png') }}');
                         background-repeat: no-repeat;
                         background-position: center;
                         background-size: 40%;
                         height: 200px;">
+            </div>
+            <div class="col-md-6" style="background-color: rgb(0,57,0);background-image: url('{{ asset('images/salt/credentials/finfolk.png') }}');
+                        background-repeat: no-repeat;
+                        background-position: center;
+                        background-size: 40%;
+                        height: 200px;">
+            </div>
+            <div class="col-md-6" style="background-color: rgb(0,57,0);background-image: url('{{ asset('images/salt/credentials/otospector.png') }}');
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: 40%;
+                height: 200px;">
+            </div>
+            <div class="col-md-6" style="background-color: rgb(0,65,0);background-image: url('{{ asset('images/salt/credentials/warcorp.png') }}');
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: 40%;
+                height: 200px;">
             </div>
         </div>
     </div>
