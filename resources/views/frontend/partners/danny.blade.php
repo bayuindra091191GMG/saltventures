@@ -82,7 +82,7 @@
                 background-size: cover;">
                 </div>
             </div>
-        </div>    
+        </div>
     </section>
 
     <section class="bg-0 mb-3">
@@ -115,29 +115,11 @@
                         healthcare industry namely, The Goods Dept,
                         Syah Establishment, Euromedica
                         Group, Sejauh Mata Memandang and many
-                        more. Danny has successfully assisted them in</p>
-                </div>
-                <div class="col-md-4 col-12 text-center text-md-left">
-                    <p class="custom-font-monserrat-regular text-black">the early stage financing and business strategy.
+                        more. Danny has successfully assisted them in
+                        the early stage financing and business strategy.
                         Mr Danny earned a degree in
                         Economics from The University of Texas at
-                        Austin, USA.<br/><br/>
-                        Other Current Executive Positions:
-                        <ul>
-                            <li class="custom-font-monserrat-regular text-black">• Commissioner of PT Hanson Semesta
-                                licensed under Bappepti).</li><br/>
-                            <li class="custom-font-monserrat-regular text-black">• Commissioner of PT CK Pakan Indonesia
-                                (fullfat soya producer and top 10 soybean
-                                trader in Indonesia).</li><br/>
-                            <li class="custom-font-monserrat-regular text-black">• Commissioner of PT CK Pakan Indonesia
-                                (fullfat soya producer and top 10 soybean
-                                trader in Indonesia).</li><br/>
-                            <li class="custom-font-monserrat-regular text-black">• Director of PT Bintang Putra Alexander (fast
-                                growing outsourcing company providing
-                                cleaning service staff, security and driver)</li><br/>
-                            <li class="custom-font-monserrat-regular text-black">• Director of PT Teknologi Bahana Mega.</li>
-                        </ul>    
-                    </p>
+                        Austin, USA.</p>
                 </div>
                 <div class="col-md-2"></div>
             </div>
@@ -162,7 +144,7 @@
 
                     </div>
                     </a>
-                </div>    
+                </div>
                 <div class="col-md-4 col-12">
                     <a href="{{ route('frontend.partners.andika') }}">
                     <div class="pbox" style="background-image: url('{{ asset('images/salt/partners/dannypartnersandika.png') }}');
@@ -171,7 +153,7 @@
                     background-size: cover;">
                     </div>
                     </a>
-                </div>    
+                </div>
                 <div class="col-md-4 col-12">
                     <a href="{{ route('frontend.partners.vincentius') }}">
                     <div class="pbox" style="background-image: url('{{ asset('images/salt/partners/dannypartnersvincentius.png') }}');
@@ -180,8 +162,8 @@
                     background-size: cover;">
                     </div>
                     </a>
-                </div>       
-            </div>    
+                </div>
+            </div>
         </div>
-    </section>    
+    </section>
 @endsection

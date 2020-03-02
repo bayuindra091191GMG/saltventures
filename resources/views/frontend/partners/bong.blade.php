@@ -104,7 +104,7 @@
                                 established a Property Developer Company named Triniti Land.
                                 In the last 10 years, Triniti Land has successfully developed iconic property projects,
                                 such as Brooklyn Apartment, Springwood Residence, Yukata Suites, The Smith, Collins Boulevard,
-                                and Marcs Boulevard which are worth more than IDR 15 trillion. Triniti Land plans to perform Initial Public Offering (IPO) on January 2019.
+                                and Marcs Boulevard which are worth more than IDR 15 trillion. Triniti Land plans to perform Initial Public Offering (IPO) on January 2020.
                             </p>
                         <br/>
                     </div>
