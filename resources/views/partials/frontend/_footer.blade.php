@@ -17,7 +17,7 @@
                             <br/>
                             <span class="t1-s-2 custom-font-monserrat-regular text-black">
                                 Prosperity Tower, Unit 17F, District 8, SCBD<br/>
-                                Jl. Jenderal Sudirnam Kav 52-53<br/>
+                                Jl. Jenderal Sudirman Kav 52-53<br/>
                                 Senayan, Kebayoran Baru<br/>
                                 Jakarta Selatan-12190
                             </span>
